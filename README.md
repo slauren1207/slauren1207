@@ -34,6 +34,12 @@
 </div>
 <br>
 
+### Github Stats
+<div align="center">
+  
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slauren1207)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 ### 소셜미디어 (Social Media)
 <div align="center">
   
