@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+##제 이름은 성예정입니다! 만나서 반가워요!
+
 <!--
 **slauren1207/slauren1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
