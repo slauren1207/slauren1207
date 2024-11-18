@@ -2,7 +2,13 @@
   
 ## 안녕하세요 👋 Welcome to my profile!
 </div>
-<br>
+
+ <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
+
 
 ### 간단한 자기소개 (Basic Self Introduction)
 
@@ -32,7 +38,6 @@
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white&link=https%3A%2F%2Fwww.javascript.com%2F)](https://www.javascript.com/)
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599c?style=flat-square&logo=cplusplus&logoColor=white&link=https%3A%2F%2Fisocpp.org%2F)](https://isocpp.org/)
 </div>
-<br>
 
 ### Github Stats
 <div align="center">
