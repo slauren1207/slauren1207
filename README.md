@@ -12,6 +12,8 @@
 
 - **학번 (Student ID):** 20246178
 
+- **TMI:** 저는 한국, 뉴질랜드, 미국, 케냐, 우간다 총 5개 국가에서 살았습니다. (I have lived in 5 countries in total: South Korea, New Zealand, USA, Kenya, and Uganda.)
+
 <hr>
 <br>
 <br>
@@ -19,7 +21,9 @@
 <br>
 만나서 반갑습니다! (Nice to meet you!)
 
+## Programming Languages Previously Taught
 
+##
 
 <!--
 **slauren1207/slauren1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
