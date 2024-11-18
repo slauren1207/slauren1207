@@ -21,7 +21,8 @@
 
 ## 기존에 배워본 프로그래밍 언어 (Programming Languages Previously Taught)
 
-##
+## 소셜미디어 (Social Media)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:syejeong1207@gmail.com)](mailto:syejeong1207@gmail.com)
 
 <!--
 **slauren1207/slauren1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
