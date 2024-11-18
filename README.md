@@ -1,10 +1,10 @@
 ## Hi there 👋 Welcome to my profile!
-
+<br>
 <!--![KakaoTalk_20241113_193246928_03](https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088)-->
-<img src="https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088" width="200">
+<img align="left" src="https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088" width="200">
 
-## 간단한 자기소개 (Basic Self Introduction)
-
+**간단한 자기소개 (Basic Self Introduction)**
+<hr>
 
 - **이름 (Name):** 성예정 (Yejeong Seong)
 
@@ -12,7 +12,11 @@
 
 - **학번 (Student ID):** 20246178
 
-
+<hr>
+<br>
+<br>
+<br>
+<br>
 만나서 반갑습니다! (Nice to meet you!)
 
 
