@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hi there 👋 Welcome to my profile!
+## 안녕하세요 👋 Welcome to my profile!
 </div>
 <br>
 
