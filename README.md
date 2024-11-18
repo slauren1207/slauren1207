@@ -1,22 +1,15 @@
 ## Hi there 👋
 
-**자기 소개 타임**
+## 간단한 자기소개 (Basic Self Introduction)
 
-**이름:** 성예정
-**소속:** 중앙대학교 예술공학부
-**학번:** 20246178
+**이름 (Name):** 성예정 (Yejeong Seong)
 
-만나서 반갑습니다!
+**소속 (Major):** 중앙대학교 예술공학부 (Chung-Ang University Art & Technology Major)
 
+**학번 (Student ID):** 20246178
 
+만나서 반갑습니다! (Nice to meet you!)
 
-**Self Introduction**
-
-**Name:** Yejeong Seong
-**Major:** Chung-Ang University Art & Technology Major
-**Student ID Number:** 20246178
-
-Nice to meet you!
 <!--
 **slauren1207/slauren1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
