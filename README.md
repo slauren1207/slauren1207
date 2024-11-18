@@ -17,11 +17,9 @@
 <hr>
 <br>
 <br>
-<br>
-<br>
 만나서 반갑습니다! (Nice to meet you!)
 
-## Programming Languages Previously Taught
+## 기존에 배워본 프로그래밍 언어 (Programming Languages Previously Taught)
 
 ##
 
