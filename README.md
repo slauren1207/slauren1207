@@ -22,7 +22,9 @@
 만나서 반갑습니다! (Nice to meet you!)
 
 ## 기존에 배워본 프로그래밍 언어 (Programming Languages Previously Taught)
-
+[![Python Badge](https://img.shields.io/badge/Python-03776Ab?style=flat-square&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F)](https://www.python.org/)
+[![Python Badge](https://img.shields.io/badge/Python%20-%203776Ab?style=flat-square&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F)](https://www.python.org/)
+[![Python Badge](https://img.shields.io/badge/Python%20-%203776Ab?style=flat-square&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F)](https://www.python.org/)
 ## 소셜미디어 (Social Media)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:syejeong1207@gmail.com)](mailto:syejeong1207@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Flyseong_04%2F)](https://www.instagram.com/lyseong_04/)
