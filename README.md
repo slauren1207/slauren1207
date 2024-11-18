@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-제 이름은 성예정입니다! 만나서 반가워요!
+이름: 성예정
+소속: 중앙대학교 예술공학부
+학번: 20246178
+
+만나서 반갑습니다!
 
 <!--
 **slauren1207/slauren1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
