@@ -26,7 +26,7 @@
   
 - **MBTI:** ISTP/ISFP
 
-- **TMI:** 저는 한국, 뉴질랜드, 미국, 케냐, 우간다 총 5개 국가에서 살았습니다. (I have lived in 5 countries in total: South Korea, New Zealand, USA, Kenya, and Uganda.)
+- **TMI:** 저는 한국, 뉴질랜드, 미국, 케냐, 우간다 총 5개 국가에서 살았습니다 :world_map: (I have lived in 5 countries in total: South Korea, New Zealand, USA, Kenya, and Uganda.)
 
 - **관심사 (Interests):** 미술 :art:, 애니메이션 :tv:, 음악 :notes:, 게임 :video_game:, 독서 :open_book:(Art, Animation, Music, Game, Literature)
 <hr>
