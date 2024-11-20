@@ -20,15 +20,15 @@
 
 - **이름 (Name):** 성예정 (Yejeong Seong)
 
-- **소속 (Major):** 중앙대학교 예술공학부 (Chung-Ang University Art & Technology Major)
-
 - **학번 (Student ID):** 20246178
+
+- **교육 :school: (Education):** 케냐 Rift Valley Academy 고등학교 2023년 졸업 :mortar_board:, 현재 중앙대학교 예술공학부 전공 (Graduated from Rift Valley Academy in Kenya in 2023, Currently attending Chung-Ang University Art & Technology Major)
   
 - **MBTI:** ISTP/ISFP
 
 - **TMI:** 저는 한국, 뉴질랜드, 미국, 케냐, 우간다 총 5개 국가에서 살았습니다. (I have lived in 5 countries in total: South Korea, New Zealand, USA, Kenya, and Uganda.)
 
-- **관심사 (Interests):** 미술, 애니메이션, 음악, 게임 (Art, Animation, Music, Game)
+- **관심사 (Interests):** 미술 :art:, 애니메이션 :tv:, 음악 :notes:, 게임 :video_game:, 독서 :open_book:(Art, Animation, Music, Game, Literature)
 <hr>
 <br>
 
