@@ -18,11 +18,11 @@
 
 <hr>
 
-- **이름 & 학번 (Name & Student ID):** 성예정 (Yejeong Seong), 20246178
+- **이름 & 학번 (Name & Student ID):** 성예정 (Yejeong Seong), 20246178 	 :slightly_smiling_face:
 
-- **교육 (Education):** 케냐 Rift Valley Academy 고등학교 2023년 졸업 :mortar_board:, 현재 중앙대학교 예술공학부 전공 :school: (Graduated from Rift Valley Academy in Kenya in 2023, Currently attending Chung-Ang University Art & Technology Major)
+- **교육 (Education):** 케냐 Rift Valley Academy 2023년 졸업 :mortar_board:, 현재 중앙대학교 예술공학부 전공 :school: (Graduated from Rift Valley Academy in Kenya in 2023, Currently attending Chung-Ang University Art & Technology Major)
   
-- **MBTI:** ISTP/ISFP
+- **MBTI:** ISTP/ISFP :sunglasses:
 
 - **TMI:** 저는 한국, 뉴질랜드, 미국, 케냐, 우간다 총 5개 국가에서 살았습니다 :world_map: (I have lived in 5 countries in total: South Korea, New Zealand, USA, Kenya, and Uganda.)
 
