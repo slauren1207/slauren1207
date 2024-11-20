@@ -43,8 +43,9 @@
 
 ```
 Python: 기본 프로그래밍 (24-1학기), 심화 프로그래밍 (24-1 학기)
-JavaScript: AP Computer Science A (AP Exam Score 5/5), 예술공학개론 (24-1학기)
-C++: 객체지향프로그래밍 (24-2학기) 
+JavaScript: AP Computer Science A (2023, AP Exam Score 5/5), 예술공학개론 (24-1학기)
+C++: 객체지향프로그래밍 (24-2학기)
+HTML: AP Computer Science A (2023)
 ```
 <br>
 
