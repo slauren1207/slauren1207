@@ -60,20 +60,21 @@ HTML: AP Computer Science A (2023)
 [![Photoshop Badge](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&link=https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fphotoshop.html)](https://www.adobe.com/products/photoshop.html)
 [![Illustrator Badge](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&link=https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fillustrator.html)](https://www.adobe.com/products/illustrator.html)
 [![Premiere Pro Badge](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white&link=https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fpremiere.html)](https://www.adobe.com/products/premiere.html)
-
-
+[![Teachable Machine Badge](https://img.shields.io/badge/TM%20Teachable%20Machine-ADD8E6?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fteachablemachine.withgoogle.com%2F)](https://teachablemachine.withgoogle.com/)
+[![CoSpaces Badge](https://img.shields.io/badge/CoSpaces.io-FF69B4?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fwww.cospaces.io%2F)](https://www.cospaces.io/)
+[![Static Badge](https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white&link=https%3A%2F%2Fwww.autodesk.com%2Fau%2Fproducts%2Fmaya%2Foverview)](https://www.autodesk.com/au/products/maya/overview)
 </div>
 
 ```
 Teachable Machine: 예술공학개론 (24-1 학기)
 COSPACE: 비주얼 컴퓨팅 (24-2 학기)
 Google Dialogflow: 심화 프로그래밍 (24-1 학기)
-Photoshop:
-Illustrator:
-Indesign:
-Premier Pro:
-Maya:
-Procreate: 
+Photoshop: Graphics & Design (2023), 응용예술공학 (24-2 학기)
+Illustrator: Graphics & Design (2023), 응용예술공학 (24-2 학기)
+Indesign: Graphics & Design (2023)
+Premier Pro: 컨셉 스튜디오 (24-1 학기), 예술공학개론 (24-1 학기)
+Maya: 예술공학개론 (24-1 학기), 응용예술공학 (24-2 학기)
+Procreate: Advanced Art II (2023)
 ```
 
 ### Github Stats
