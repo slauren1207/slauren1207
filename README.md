@@ -30,7 +30,10 @@
 <hr>
 <br>
 
+<img align="right" src="https://images.stockcake.com/public/6/c/8/6c866598-4e1a-4256-b308-06e72d79ed45_large/futuristic-coding-workspace-stockcake.jpg" width="250">
+
 ### 기존에 배워본 프로그래밍 언어 (Programming Languages Previously Taught)
+
 <div align="center">
   
 [![Python Badge](https://img.shields.io/badge/Python-03776Ab?style=flat-square&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F)](https://www.python.org/)
@@ -45,8 +48,11 @@ JavaScript: AP Computer Science A (AP Exam Score 5/5), 예술공학개론 (24-1�
 
 C++: 객체지향프로그래밍 (24-2학기) 
 ```
+<br>
 
 ### 다른 예술공학 관련 기술 (Other Art & Technology Related Skills)
+
+<img align="right" src="https://www.theartist.me/wp-content/uploads/2023/10/future-of-art.jpg" width="250">
 
 ```
 Teachable Machine: 예술공학개론 (24-1 학기)
