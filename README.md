@@ -57,9 +57,9 @@ HTML: AP Computer Science A (2023)
 <div align="center">
 	
 [![Dialoflow Badge](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white&link=https%3A%2F%2Fdialogflow.cloud.google.com%2F)](https://dialogflow.cloud.google.com/)
-[![Dialoflow Badge](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white&link=https%3A%2F%2Fdialogflow.cloud.google.com%2F)](https://dialogflow.cloud.google.com/)
-[![Dialoflow Badge](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white&link=https%3A%2F%2Fdialogflow.cloud.google.com%2F)](https://dialogflow.cloud.google.com/)
-[![Dialoflow Badge](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white&link=https%3A%2F%2Fdialogflow.cloud.google.com%2F)](https://dialogflow.cloud.google.com/)
+[![Photoshop Badge](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&link=https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fphotoshop.html)](https://www.adobe.com/products/photoshop.html)
+[![Illustrator Badge](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&link=https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fillustrator.html)](https://www.adobe.com/products/illustrator.html)
+[![Premiere Pro Badge](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white&link=https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fpremiere.html)](https://www.adobe.com/products/premiere.html)
 
 
 </div>
@@ -70,6 +70,8 @@ COSPACE: 비주얼 컴퓨팅 (24-2 학기)
 Google Dialogflow: 심화 프로그래밍 (24-1 학기)
 Photoshop:
 Illustrator:
+Indesign:
+Premier Pro:
 Maya:
 Procreate: 
 ```
