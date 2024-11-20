@@ -18,11 +18,9 @@
 
 <hr>
 
-- **이름 (Name):** 성예정 (Yejeong Seong)
+- **이름 & 학번 (Name & Student ID):** 성예정 (Yejeong Seong), 20246178
 
-- **학번 (Student ID):** 20246178
-
-- **교육 :school: (Education):** 케냐 Rift Valley Academy 고등학교 2023년 졸업 :mortar_board:, 현재 중앙대학교 예술공학부 전공 (Graduated from Rift Valley Academy in Kenya in 2023, Currently attending Chung-Ang University Art & Technology Major)
+- **교육 (Education):** 케냐 Rift Valley Academy 고등학교 2023년 졸업 :mortar_board:, 현재 중앙대학교 예술공학부 전공 :school: (Graduated from Rift Valley Academy in Kenya in 2023, Currently attending Chung-Ang University Art & Technology Major)
   
 - **MBTI:** ISTP/ISFP
 
