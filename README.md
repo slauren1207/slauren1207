@@ -38,13 +38,33 @@
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599c?style=flat-square&logo=cplusplus&logoColor=white&link=https%3A%2F%2Fisocpp.org%2F)](https://isocpp.org/)
 </div>
 
+```
+Python: 기본 프로그래밍 (24-1학기), 심화 프로그래밍 (24-1 학기)
+
+JavaScript: AP Computer Science A (AP Exam Score 5/5), 예술공학개론 (24-1학기)
+
+C++: 객체지향프로그래밍 (24-2학기) 
+```
+
+### 다른 예술공학 관련 기술 (Other Art & Technology Related Skills)
+
+```
+Teachable Machine: 예술공학개론 (24-1 학기)
+COSPACE: 비주얼 컴퓨팅 (24-2 학기)
+Google Dialogflow: 심화 프로그래밍 (24-1 학기)
+Photoshop:
+Illustrator:
+Maya:
+Procreate: 
+```
+
 ### Github Stats
 <div align="center">
   
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slauren1207)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-### 소셜미디어 (Social Media)
+#### 소셜미디어 (Social Media)
 <div align="center">
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:slauren1207@gmail.com)](mailto:slauren1207@gmail.com)
