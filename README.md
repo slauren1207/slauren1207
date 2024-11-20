@@ -56,11 +56,17 @@ C++: 객체지향프로그래밍 (24-2학기)
 
 ```
 Teachable Machine: 예술공학개론 (24-1 학기)
+
 COSPACE: 비주얼 컴퓨팅 (24-2 학기)
+
 Google Dialogflow: 심화 프로그래밍 (24-1 학기)
+
 Photoshop:
+
 Illustrator:
+
 Maya:
+
 Procreate: 
 ```
 
