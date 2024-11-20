@@ -36,9 +36,10 @@
 
 <div align="center">
   
-[![Python Badge](https://img.shields.io/badge/Python-03776Ab?style=flat-square&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F)](https://www.python.org/)
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white&link=https%3A%2F%2Fwww.javascript.com%2F)](https://www.javascript.com/)
-[![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599c?style=flat-square&logo=cplusplus&logoColor=white&link=https%3A%2F%2Fisocpp.org%2F)](https://isocpp.org/)
+[![Python Badge](https://img.shields.io/badge/Python-03776Ab?style=for-the-badge&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F)](https://www.python.org/)
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white&link=https%3A%2F%2Fwww.javascript.com%2F)](https://www.javascript.com/)
+[![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599c?style=for-the-badge&logo=cplusplus&logoColor=white&link=https%3A%2F%2Fisocpp.org%2F)](https://isocpp.org/)
+[![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https%3A%2F%2Fhtml.com%2F)](https://html.com/)
 </div>
 
 ```
