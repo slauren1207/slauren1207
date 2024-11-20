@@ -62,7 +62,9 @@ HTML: AP Computer Science A (2023)
 [![Premiere Pro Badge](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white&link=https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fpremiere.html)](https://www.adobe.com/products/premiere.html)
 [![Teachable Machine Badge](https://img.shields.io/badge/TM%20Teachable%20Machine-ADD8E6?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fteachablemachine.withgoogle.com%2F)](https://teachablemachine.withgoogle.com/)
 [![CoSpaces Badge](https://img.shields.io/badge/CoSpaces.io-FF69B4?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fwww.cospaces.io%2F)](https://www.cospaces.io/)
-[![Static Badge](https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white&link=https%3A%2F%2Fwww.autodesk.com%2Fau%2Fproducts%2Fmaya%2Foverview)](https://www.autodesk.com/au/products/maya/overview)
+[![Maya Badge](https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white&link=https%3A%2F%2Fwww.autodesk.com%2Fau%2Fproducts%2Fmaya%2Foverview)](https://www.autodesk.com/au/products/maya/overview)
+[![Procreate Badge](https://img.shields.io/badge/Procreate-FFB6C1?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fprocreate.com%2F)](https://procreate.com/)
+
 </div>
 
 ```
@@ -83,7 +85,7 @@ Procreate: Advanced Art II (2023)
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slauren1207)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-#### 소셜미디어 (Social Media)
+### 소셜미디어 (Social Media)
 <div align="center">
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:slauren1207@gmail.com)](mailto:slauren1207@gmail.com)
