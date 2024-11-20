@@ -1,6 +1,6 @@
 <div align="center">
   
-## 안녕하세요 👋 Welcome to my profile!
+## 안녕하세요 👋 Welcome to Yejeong Seong's profile!
 </div>
 
  <div align=center>
