@@ -8,15 +8,15 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fslauren1207)](https://hits.seeyoufarm.com) 
 	
   </div>
+<hr>
 
 
-### Basic Introduction: Korean in appearance with a foreign soul and heart
+### Basic Introduction: Korean in appearance with a foreign soul & heart
 
 <!--![KakaoTalk_20241113_193246928_03](https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088)-->
 <img align="left" src="https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088" width="230">
 
 
-<hr>
 
 - **Name:** Yejeong Seong
 
