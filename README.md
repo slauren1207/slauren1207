@@ -100,7 +100,7 @@ Procreate: Advanced Art II (2023)
 
 - Hologram Video of the Four Seasons
 - Bubble Shooter Game Creation using Pygame
-- VR Fantasy Murder Mystery Game Creation using COSPACES ![VR Badge](https://img.shields.io/badge/VR%20Tragedy%20Befalls%20Elvendom-FF69B4?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FAVX-WQN)
+- VR Fantasy Murder Mystery Game Creation using COSPACES ![VR Badge](https://img.shields.io/badge/VR%20Tragedy%20Befalls%20Elvendom-FF69B4?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FAVX-WQN)(https://edu.cospaces.io/AVX-WQN)
 
 - Hypothetical Movie Poster Creation using Photoshop (On-Going)
 <hr>
