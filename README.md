@@ -26,7 +26,7 @@
 
 - **TMI:** 저는 한국, 뉴질랜드, 미국, 케냐, 우간다 총 5개 국가에서 살았습니다 :world_map: (I have lived in 5 countries in total: South Korea, New Zealand, USA, Kenya, and Uganda.)
 
-- **관심사 (Interests):** 미술 :art:, 애니메이션 :tv:, 음악 :notes:, 게임 :video_game:, 독서 :open_book:(Art, Animation, Music, Game, Literature)
+- **관심사 (Interests):** 미술 :art:, 애니메이션 :tv:, 음악 :notes:, 게임 :video_game:, 스토리텔링 :open_book:(Art, Animation, Music, Game, Literature)
 <hr>
 <br>
 
@@ -43,7 +43,7 @@
 </div>
 
 ```
-학습 수업
+언어 학습 수업
 
 Python: 기본 프로그래밍 (24-1학기), 심화 프로그래밍 (24-1 학기)
 JavaScript: 고등학교 AP Computer Science A (2023, AP Exam Score 5/5), 예술공학개론 (24-1학기)
@@ -70,20 +70,34 @@ HTML: 고등학교 AP Computer Science A (2023)
 </div>
 
 ```
+기술 학습 수업
+
 Teachable Machine: 예술공학개론 (24-1 학기)
 COSPACE: 비주얼 컴퓨팅 (24-2 학기)
 Google Dialogflow: 심화 프로그래밍 (24-1 학기)
 Photoshop: 고등학교 Graphics & Design (2023), 응용예술공학 (24-2 학기)
-Illustrator: 고등학교 Graphics 교 Advanced Art II (2023)
+Illustrator: 고등학교 Graphics & Design (2023), 응용예술공학 (24-2 학기)
+Indesign: 고등학교 Graphics & Design (2023)
+Premiere Pro: 컨셉 스튜디오 (24-1 학기), 예술공학개론 (24-1 학기)
+Procreate: Advanced Art II (2023)
 ```
 
-### Github Stats
+### 현재까지 진행한 프로젝트
+
+- Diet Suggestion Chatbot Creation using Google Dialogflow
+- AR MERGECUBE Recreation of Disney Movies using COSPACES
+- Hologram Video of the Four Seasons
+- Bubble Shooter Game Creation using Pygame
+- VR Fantasy Murder Mystery Game Creation using COSPACES
+- Hypothetical Movie Poster Creation using Photoshop (On-Going)
+
+### 제 Github 활약 정보입니다: Github Stats
 <div align="center">
   
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slauren1207)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-### 소셜미디어 (Social Media)
+### 같이 작업하고 싶으신 분은 모두 환영입니다! 여기로 연락주세요! Reach Me Here:
 <div align="center">
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:slauren1207@gmail.com)](mailto:slauren1207@gmail.com)
