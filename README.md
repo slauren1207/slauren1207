@@ -22,7 +22,7 @@
 
 - **Education:** Class of 2023 Graduate of Rift Valley Academy, Kenya :mortar_board:, Current attendee of Chung-Ang University Art & Technology Major :school: 
   
-- **MBTI:** ISTP/ISFP  
+- **Personality Traits:** ISTP/ISFP, Has a strong sense of responsibility and highly value commitments, Quiet but always yearning to learn new things
 
 - **Fields of Interests:** Visual Art & Digital Illustration :art:, 2D & 3D Animation :tv:, Music :notes:, Game Creation :video_game:, Storytelling Director :open_book: 
 
@@ -31,7 +31,7 @@
 <hr>
 
 > ### **Career Goal:**
-> "To **grow and mature as a 3D and graphic artist** who is not only skilled in her work, but as a creator who can share **unique ideas & perspectives from her multicultural experience overseas**."
+> "To **grow and mature as a 3D and graphic artist** who is not only skilled in her work, but as a creator who can share **unique ideas & perspectives from her diverse multicultural background**."
 
 
 <hr>
