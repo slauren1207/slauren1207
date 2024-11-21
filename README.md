@@ -41,10 +41,10 @@
 
 <div align="center">
   
-[![Python Badge](https://img.shields.io/badge/Python-03776Ab?style=flat-square&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F)](https://www.python.org/)
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white&link=https%3A%2F%2Fwww.javascript.com%2F)](https://www.javascript.com/)
-[![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599c?style=flat-square&logo=cplusplus&logoColor=white&link=https%3A%2F%2Fisocpp.org%2F)](https://isocpp.org/)
-[![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&link=https%3A%2F%2Fhtml.com%2F)](https://html.com/)
+[![Python Badge](https://img.shields.io/badge/Python-03776Ab?style=for-the-badge&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F)](https://www.python.org/)
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white&link=https%3A%2F%2Fwww.javascript.com%2F)](https://www.javascript.com/)
+[![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599c?style=for-the-badge&logo=cplusplus&logoColor=white&link=https%3A%2F%2Fisocpp.org%2F)](https://isocpp.org/)
+[![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https%3A%2F%2Fhtml.com%2F)](https://html.com/)
 </div>
 
 Courses Taken For Each Language
@@ -63,14 +63,14 @@ HTML: 고등학교 AP Computer Science A (2023)
 
 <div align="center">
 	
-[![Dialoflow Badge](https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white&link=https%3A%2F%2Fdialogflow.cloud.google.com%2F)](https://dialogflow.cloud.google.com/)
-[![Photoshop Badge](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white&link=https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fphotoshop.html)](https://www.adobe.com/products/photoshop.html)
-[![Illustrator Badge](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white&link=https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fillustrator.html)](https://www.adobe.com/products/illustrator.html)
-[![Premiere Pro Badge](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white&link=https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fpremiere.html)](https://www.adobe.com/products/premiere.html)
-[![Teachable Machine Badge](https://img.shields.io/badge/Teachable%20Machine-ADD8E6?style=flat-square&logoColor=white&link=https%3A%2F%2Fteachablemachine.withgoogle.com%2F)](https://teachablemachine.withgoogle.com/)
-[![CoSpaces Badge](https://img.shields.io/badge/CoSpaces-FF69B4?style=flat-square&logoColor=white&link=https%3A%2F%2Fwww.cospaces.io%2F)](https://www.cospaces.io/)
-[![Maya Badge](https://img.shields.io/badge/Maya-37A5CC?style=flat-square&logo=autodeskmaya&logoColor=white&link=https%3A%2F%2Fwww.autodesk.com%2Fau%2Fproducts%2Fmaya%2Foverview)](https://www.autodesk.com/au/products/maya/overview)
-[![Procreate Badge](https://img.shields.io/badge/Procreate-FFB6C1?style=flat-square&logoColor=white&link=https%3A%2F%2Fprocreate.com%2F)](https://procreate.com/)
+[![Dialoflow Badge](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white&link=https%3A%2F%2Fdialogflow.cloud.google.com%2F)](https://dialogflow.cloud.google.com/)
+[![Photoshop Badge](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&link=https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fphotoshop.html)](https://www.adobe.com/products/photoshop.html)
+[![Illustrator Badge](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&link=https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fillustrator.html)](https://www.adobe.com/products/illustrator.html)
+[![Premiere Pro Badge](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white&link=https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fpremiere.html)](https://www.adobe.com/products/premiere.html)
+[![Teachable Machine Badge](https://img.shields.io/badge/Teachable%20Machine-ADD8E6?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fteachablemachine.withgoogle.com%2F)](https://teachablemachine.withgoogle.com/)
+[![CoSpaces Badge](https://img.shields.io/badge/CoSpaces-FF69B4?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fwww.cospaces.io%2F)](https://www.cospaces.io/)
+[![Maya Badge](https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white&link=https%3A%2F%2Fwww.autodesk.com%2Fau%2Fproducts%2Fmaya%2Foverview)](https://www.autodesk.com/au/products/maya/overview)
+[![Procreate Badge](https://img.shields.io/badge/Procreate-FFB6C1?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fprocreate.com%2F)](https://procreate.com/)
 
 </div>
 
