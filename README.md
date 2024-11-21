@@ -24,7 +24,7 @@
   
 - **Personality Traits:** ISTP/ISFP, Has a strong sense of responsibility and highly value commitments, Quiet but always yearning to learn new things
 
-- **Fields of Interests:** Visual Art & Digital Illustration :art:, 2D & 3D Animation :tv:, Music :notes:, Game Creation :video_game:, Storytelling Director :open_book: 
+- **Fields of Interest:** Visual Art & Digital Illustration :art:, 2D & 3D Animation :tv:, Music :notes:, Game Creation :video_game:, Storytelling Director :open_book: 
 
 - **Love For Diversity:** I have lived in 5 countries in total: South Korea, New Zealand, USA, Kenya, and Uganda :world_map:.  Due to spending more than 3/4 of my life outside of Korea, I am now fluent in both Korean and English. Also, due to constantly moving abroad, I have gained the ability to adapt very swiftly to different situations and to respect the diverse cultures/opinions that may exist in all team settings.
 
@@ -48,7 +48,7 @@
 </div>
 
 ```
-언어 학습 수업
+Courses Taken 
 
 Python: 기본 프로그래밍 (24-1학기), 심화 프로그래밍 (24-1 학기)
 JavaScript: 고등학교 AP Computer Science A (2023, AP Exam Score 5/5), 예술공학개론 (24-1학기)
@@ -75,7 +75,7 @@ HTML: 고등학교 AP Computer Science A (2023)
 </div>
 
 ```
-기술 학습 수업
+Courses Taken
 
 Teachable Machine: 예술공학개론 (24-1 학기)
 COSPACE: 비주얼 컴퓨팅 (24-2 학기)
@@ -90,7 +90,7 @@ Procreate: Advanced Art II (2023)
 
 ### Art & Technology Projects I Have Created So Far
 
-- Website Creation using HTML (고등학교)
+- Local Game Website Creation using HTML (고등학교)
 - Diet Suggestion Chatbot Creation using Google Dialogflow
 - AR MERGECUBE Recreation of Disney Movies using COSPACES
 - Hologram Video of the Four Seasons
