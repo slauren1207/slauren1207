@@ -14,7 +14,7 @@
 ### Basic Introduction: A Korean With A Foreign Heart & Soul
 
 <!--![KakaoTalk_20241113_193246928_03](https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088)-->
-<img align="left" src="https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088" width="230">
+<img align="left" src="https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088" width="225">
 
 
 
