@@ -10,7 +10,7 @@
   </div>
 
 
-### Let Me Introduce Myself...
+### Basic Introduction: Korean in appearance with a foreign soul and heart
 
 <!--![KakaoTalk_20241113_193246928_03](https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088)-->
 <img align="left" src="https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088" width="230">
@@ -20,20 +20,21 @@
 
 - **Name:** Yejeong Seong
 
-- **Education:** Graduate of Rift Valley Academy Class of 2023 :mortar_board:, Current attendee of Chung-Ang University Art & Technology Major :school: 
+- **Education:** Class of 2023 Graduate of Rift Valley Academy, Kenya :mortar_board:, Current attendee of Chung-Ang University Art & Technology Major :school: 
   
 - **MBTI:** ISTP/ISFP  
 
 - **Fields of Interests:** Visual Art & Digital Illustration :art:, 2D & 3D Animation :tv:, Music :notes:, Game Creation :video_game:, Storytelling Director :open_book: 
 
-- **TMI:** I have lived in 5 countries in total: South Korea, New Zealand, USA, Kenya, and Uganda :world_map:. Thus, I am very fluent in English. Also, due to constantly moving abroad, I have gained the ability adapt very swiftly to different situations and to respect the diverse cultures/opinions that may exist in all team settings. After having lived more than 3/4 of my life abroad, I am proud to call myself "a Korean who shared a foreign mindset."
+- **Love For Diversity:** I have lived in 5 countries in total: South Korea, New Zealand, USA, Kenya, and Uganda :world_map:.  Due to spending more than 3/4 of my life outside of Korea, I am now fluent in both Korean and English. Also, due to constantly moving abroad, I have gained the ability to adapt very swiftly to different situations and to respect the diverse cultures/opinions that may exist in all team settings.
 
 <hr>
 
 > ### **Career Goal:**
 > "To **grow and mature as a 3D and graphic artist** who is not only skilled in her work, but as a creator who can share **unique ideas & perspectives from her multicultural experience overseas**."
 
-<br>
+
+<hr>
 <img align="right" src="https://images.stockcake.com/public/6/c/8/6c866598-4e1a-4256-b308-06e72d79ed45_large/futuristic-coding-workspace-stockcake.jpg" width="250">
 
 ### Programming Languages I Can Use
@@ -54,6 +55,7 @@ JavaScript: 고등학교 AP Computer Science A (2023, AP Exam Score 5/5), 예술
 C++: 객체지향프로그래밍 (24-2학기)
 HTML: 고등학교 AP Computer Science A (2023)
 ```
+<hr>
 
 ### Other Art & Technology Related Skills I Have Developed
 
@@ -84,6 +86,7 @@ Indesign: 고등학교 Graphics & Design (2023)
 Premiere Pro: 컨셉 스튜디오 (24-1 학기), 예술공학개론 (24-1 학기)
 Procreate: Advanced Art II (2023)
 ```
+<hr>
 
 ### Art & Technology Projects I Have Created So Far
 
@@ -94,12 +97,14 @@ Procreate: Advanced Art II (2023)
 - Bubble Shooter Game Creation using Pygame
 - VR Fantasy Murder Mystery Game Creation using COSPACES
 - Hypothetical Movie Poster Creation using Photoshop (On-Going)
+<hr>
 
 ### My Current GitHub Stats
 <div align="center">
   
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slauren1207)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+<hr>
 
 ### I would love to work with you to create "Something New, Something Different!" 
 >If you are interested in working with me, please feel free to contact me here! 
