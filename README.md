@@ -84,6 +84,7 @@ Procreate: Advanced Art II (2023)
 
 ### 현재까지 진행한 프로젝트
 
+- Website Creation using HTML (고등학교)
 - Diet Suggestion Chatbot Creation using Google Dialogflow
 - AR MERGECUBE Recreation of Disney Movies using COSPACES
 - Hologram Video of the Four Seasons
