@@ -48,7 +48,7 @@
 </div>
 
 ```
-Courses Taken 
+Courses Taken For Each Language
 
 Python: 기본 프로그래밍 (24-1학기), 심화 프로그래밍 (24-1 학기)
 JavaScript: 고등학교 AP Computer Science A (2023, AP Exam Score 5/5), 예술공학개론 (24-1학기)
@@ -59,7 +59,7 @@ HTML: 고등학교 AP Computer Science A (2023)
 
 ### Other Art & Technology Related Skills I Have Developed
 
-<img align="right" src="https://www.theartist.me/wp-content/uploads/2023/10/future-of-art.jpg" width="250">
+
 
 <div align="center">
 	
@@ -68,14 +68,16 @@ HTML: 고등학교 AP Computer Science A (2023)
 [![Illustrator Badge](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&link=https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fillustrator.html)](https://www.adobe.com/products/illustrator.html)
 [![Premiere Pro Badge](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white&link=https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fpremiere.html)](https://www.adobe.com/products/premiere.html)
 [![Teachable Machine Badge](https://img.shields.io/badge/Teachable%20Machine-ADD8E6?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fteachablemachine.withgoogle.com%2F)](https://teachablemachine.withgoogle.com/)
-[![CoSpaces Badge](https://img.shields.io/badge/CoSpaces.io-FF69B4?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fwww.cospaces.io%2F)](https://www.cospaces.io/)
+[![CoSpaces Badge](https://img.shields.io/badge/CoSpaces-FF69B4?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fwww.cospaces.io%2F)](https://www.cospaces.io/)
 [![Maya Badge](https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white&link=https%3A%2F%2Fwww.autodesk.com%2Fau%2Fproducts%2Fmaya%2Foverview)](https://www.autodesk.com/au/products/maya/overview)
 [![Procreate Badge](https://img.shields.io/badge/Procreate-FFB6C1?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fprocreate.com%2F)](https://procreate.com/)
 
 </div>
 
+<img align="right" src="https://www.theartist.me/wp-content/uploads/2023/10/future-of-art.jpg" width="250">
+
 ```
-Courses Taken
+Courses Taken For Each Skill
 
 Teachable Machine: 예술공학개론 (24-1 학기)
 COSPACE: 비주얼 컴퓨팅 (24-2 학기)
