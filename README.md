@@ -110,7 +110,7 @@ Procreate: Advanced Art II (2023)
 >If you are interested in collaborating with me, please feel free to contact me here! 
 <div align="center">
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:slauren1207@gmail.com)](mailto:slauren1207@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:slauren1207@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Flyseong_04%2F)](https://www.instagram.com/lyseong_04/)
 </div>
 
