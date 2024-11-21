@@ -11,7 +11,7 @@
 <hr>
 
 
-### Basic Introduction: A Korean With A Foreign Heart & Soul
+### Basic Introduction: a Korean With a Foreign Heart & Soul
 
 <!--![KakaoTalk_20241113_193246928_03](https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088)-->
 <img align="left" src="https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088" width="225">
@@ -47,9 +47,9 @@
 [![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https%3A%2F%2Fhtml.com%2F)](https://html.com/)
 </div>
 
-```
 Courses Taken For Each Language
 
+```
 Python: 기본 프로그래밍 (24-1학기), 심화 프로그래밍 (24-1 학기)
 JavaScript: 고등학교 AP Computer Science A (2023, AP Exam Score 5/5), 예술공학개론 (24-1학기)
 C++: 객체지향프로그래밍 (24-2학기)
@@ -76,11 +76,11 @@ HTML: 고등학교 AP Computer Science A (2023)
 
 <img align="right" src="https://www.theartist.me/wp-content/uploads/2023/10/future-of-art.jpg" width="250">
 
-```
 Courses Taken For Each Skill
 
+```
 Teachable Machine: 예술공학개론 (24-1 학기)
-COSPACE: 비주얼 컴퓨팅 (24-2 학기)
+CoSpaces: 비주얼 컴퓨팅 (24-2 학기)
 Google Dialogflow: 심화 프로그래밍 (24-1 학기)
 Photoshop: 고등학교 Graphics & Design (2023), 응용예술공학 (24-2 학기)
 Illustrator: 고등학교 Graphics & Design (2023), 응용예술공학 (24-2 학기)
@@ -96,11 +96,11 @@ Procreate: 고등학교 Advanced Art II (2023)
 - Diet Suggestion Chatbot Creation using Google Dialogflow
 - Puang Platformer Game using Teachable Machine Learning controls [![Puang Badge](https://img.shields.io/badge/PUANG%20PLATFORMER%20GAME-blue?style=for-the-badge&logoColor=white&link=https%3A%2F%2Feditor.p5js.org%2Fslauren1207%2Fsketches%2F95592_ePw-)](https://editor.p5js.org/slauren1207/sketches/95592_ePw-)
 
-- AR MERGECUBE Recreation of Disney Movies using COSPACES [![AR Badge](https://img.shields.io/badge/AR%20MAGIC%20OF%20DISNEY-pink?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FVEC-BMV)](https://edu.cospaces.io/VEC-BMV)
+- AR MERGECUBE Recreation of Disney Movies using CoSpaces [![AR Badge](https://img.shields.io/badge/AR%20MAGIC%20OF%20DISNEY-pink?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FVEC-BMV)](https://edu.cospaces.io/VEC-BMV)
 
 - Hologram Video of the Four Seasons
 - Bubble Shooter Game Creation using Pygame
-- VR Fantasy Murder Mystery Game Creation using COSPACES [![VR Badge](https://img.shields.io/badge/VR%20Tragedy%20Befalls%20Elvendom-FF69B4?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FAVX-WQN)](https://edu.cospaces.io/AVX-WQN)
+- VR Fantasy Murder Mystery Game Creation using CoSpaces [![VR Badge](https://img.shields.io/badge/VR%20Tragedy%20Befalls%20Elvendom-FF69B4?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FAVX-WQN)](https://edu.cospaces.io/AVX-WQN)
 
 - Hypothetical Movie Poster Creation using Photoshop (On-Going)
 <hr>
