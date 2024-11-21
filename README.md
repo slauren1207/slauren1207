@@ -1,7 +1,7 @@
 <div align="center">
   
 ## 	:sparkles: 안녕하세요 - Welcome to Yejeong Seong's profile! 	:sparkles:
-A Korean with a Foreign Heart & Soul
+A Korean Student with a Foreign Heart & Soul
 </div>
 
  <div align=center>
