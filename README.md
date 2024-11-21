@@ -93,7 +93,6 @@ Procreate: 고등학교 Advanced Art II (2023)
 
 ### Art & Technology Projects I Have Created So Far
 
-- Local Game Website Creation using HTML (고등학교)
 - Diet Suggestion Chatbot Creation using Google Dialogflow
 - Puang Platformer Game using p5.js & Teachable Machine Learning controls [![Puang Badge](https://img.shields.io/badge/PUANG%20PLATFORMER%20GAME-blue?style=flat-square&logoColor=white&link=https%3A%2F%2Feditor.p5js.org%2Fslauren1207%2Fsketches%2F95592_ePw-)](https://editor.p5js.org/slauren1207/sketches/95592_ePw-)
 
@@ -103,7 +102,6 @@ Procreate: 고등학교 Advanced Art II (2023)
 - Bubble Shooter Game Creation using Pygame
 - VR Fantasy Murder Mystery Game Creation using CoSpaces [![VR Badge](https://img.shields.io/badge/VR%20TRAGEDY%20BEFALLS%20ELVENDOM-FF69B4?style=flat-square&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FAVX-WQN)](https://edu.cospaces.io/AVX-WQN)
 
-- Hypothetical Movie Poster Creation using Photoshop (On-Going)
 <hr>
 
 ### My Current GitHub Stats :bar_chart:
