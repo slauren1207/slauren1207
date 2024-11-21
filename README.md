@@ -43,10 +43,12 @@
 </div>
 
 ```
+학습 수업
+
 Python: 기본 프로그래밍 (24-1학기), 심화 프로그래밍 (24-1 학기)
-JavaScript: AP Computer Science A (2023, AP Exam Score 5/5), 예술공학개론 (24-1학기)
+JavaScript: 고등학교 AP Computer Science A (2023, AP Exam Score 5/5), 예술공학개론 (24-1학기)
 C++: 객체지향프로그래밍 (24-2학기)
-HTML: AP Computer Science A (2023)
+HTML: 고등학교 AP Computer Science A (2023)
 ```
 <br>
 
@@ -71,12 +73,8 @@ HTML: AP Computer Science A (2023)
 Teachable Machine: 예술공학개론 (24-1 학기)
 COSPACE: 비주얼 컴퓨팅 (24-2 학기)
 Google Dialogflow: 심화 프로그래밍 (24-1 학기)
-Photoshop: Graphics & Design (2023), 응용예술공학 (24-2 학기)
-Illustrator: Graphics & Design (2023), 응용예술공학 (24-2 학기)
-Indesign: Graphics & Design (2023)
-Premier Pro: 컨셉 스튜디오 (24-1 학기), 예술공학개론 (24-1 학기)
-Maya: 예술공학개론 (24-1 학기), 응용예술공학 (24-2 학기)
-Procreate: Advanced Art II (2023)
+Photoshop: 고등학교 Graphics & Design (2023), 응용예술공학 (24-2 학기)
+Illustrator: 고등학교 Graphics 교 Advanced Art II (2023)
 ```
 
 ### Github Stats
@@ -88,8 +86,8 @@ Procreate: Advanced Art II (2023)
 ### 소셜미디어 (Social Media)
 <div align="center">
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:slauren1207@gmail.com)](mailto:slauren1207@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Flyseong_04%2F)](https://www.instagram.com/lyseong_04/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:slauren1207@gmail.com)](mailto:slauren1207@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Flyseong_04%2F)](https://www.instagram.com/lyseong_04/)
 </div>
 
 <!--
