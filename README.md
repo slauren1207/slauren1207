@@ -30,8 +30,8 @@
 
 <hr>
 
-> ### **Career Goal:**
-> "To **grow and mature as a 3D and graphic artist** who is not only skilled in her work, but as a creator who can share **unique ideas & perspectives from her diverse multicultural background**."
+> ### **Career Goal :memo:**
+> "To **grow and mature as a 3D graphic artist** who is not only skilled in her work but is also a creator who shares **unique ideas & perspectives from her diverse multicultural background**."
 
 
 <hr>
@@ -105,7 +105,7 @@ Procreate: 고등학교 Advanced Art II (2023)
 - Hypothetical Movie Poster Creation using Photoshop (On-Going)
 <hr>
 
-### My Current GitHub Stats
+### My Current GitHub Stats :bar_chart:
 <div align="center">
   
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slauren1207)](https://github.com/anuraghazra/github-readme-stats)
@@ -113,7 +113,7 @@ Procreate: 고등학교 Advanced Art II (2023)
 <hr>
 
 ### I would love to work with you to create "Something New, Something Different!" 
->If you are interested in collaborating with me, please feel free to contact me here! :calling:
+>If you are interested in collaborating with me, please feel free to contact me here! :mailbox_with_mail::calling:
 <div align="center">
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail_slauren1207@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:slauren1207@gmail.com)
