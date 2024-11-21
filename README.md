@@ -1,6 +1,7 @@
 <div align="center">
   
-## 안녕하세요 👋 Welcome to Yejeong Seong's profile!
+## 	:sparkles: 안녕하세요 - Welcome to Yejeong Seong's profile! 	:sparkles:
+A Korean with a Foreign Heart & Soul
 </div>
 
  <div align=center>
@@ -11,7 +12,7 @@
 <hr>
 
 
-### Basic Introduction: a Korean With a Foreign Heart & Soul
+### Basic Introduction
 
 <!--![KakaoTalk_20241113_193246928_03](https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088)-->
 <img align="left" src="https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088" width="225">
