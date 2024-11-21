@@ -26,7 +26,7 @@
 
 - **Fields of Interest:** Visual Art & Digital Illustration :art:, 2D & 3D Animation :tv:, Music :notes:, Game Creation :video_game:, Storytelling Director :open_book: 
 
-- **Love For Diversity:** I have lived in 5 countries in total: South Korea, New Zealand, USA, Kenya, and Uganda :world_map:.  Due to spending more than 3/4 of my life outside of Korea, I am now fluent in both Korean and English. Also, due to constantly moving abroad, I have gained the ability to adapt very swiftly to different situations and to respect the diverse cultures/opinions that may exist in all team settings.
+- **Love For Diversity:** I have lived in 5 countries in total (South Korea, New Zealand, USA, Kenya, and Uganda) :world_map:.  Due to spending more than 3/4 of my life outside of Korea, I am now fluent in both Korean and English. Also, due to constantly moving abroad, I have gained the ability to adapt very swiftly to different situations and to respect the diverse cultures/opinions that may exist in all team settings.
 
 <hr>
 
