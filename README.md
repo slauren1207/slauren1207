@@ -85,7 +85,6 @@ CoSpaces: 비주얼 컴퓨팅 (24-2 학기)
 Google Dialogflow: 심화 프로그래밍 (24-1 학기)
 Photoshop: 고등학교 Graphics & Design (2023), 응용예술공학 (24-2 학기)
 Illustrator: 고등학교 Graphics & Design (2023), 응용예술공학 (24-2 학기)
-Indesign: 고등학교 Graphics & Design (2023)
 Premiere Pro: 컨셉 스튜디오 (24-1 학기), 예술공학개론 (24-1 학기)
 Procreate: 고등학교 Advanced Art II (2023)
 ```
