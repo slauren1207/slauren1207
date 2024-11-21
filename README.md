@@ -94,7 +94,7 @@ Procreate: 고등학교 Advanced Art II (2023)
 
 - Local Game Website Creation using HTML (고등학교)
 - Diet Suggestion Chatbot Creation using Google Dialogflow
-- Puang Platformer Game using Teachable Machine Learning controls [![Puang Badge](https://img.shields.io/badge/PUANG%20PLATFORMER%20GAME-blue?style=for-the-badge&logoColor=white&link=https%3A%2F%2Feditor.p5js.org%2Fslauren1207%2Fsketches%2F95592_ePw-)](https://editor.p5js.org/slauren1207/sketches/95592_ePw-)
+- Puang Platformer Game using p5.js & Teachable Machine Learning controls [![Puang Badge](https://img.shields.io/badge/PUANG%20PLATFORMER%20GAME-blue?style=for-the-badge&logoColor=white&link=https%3A%2F%2Feditor.p5js.org%2Fslauren1207%2Fsketches%2F95592_ePw-)](https://editor.p5js.org/slauren1207/sketches/95592_ePw-)
 
 - AR MERGECUBE Recreation of Disney Movies using CoSpaces [![AR Badge](https://img.shields.io/badge/AR%20MAGIC%20OF%20DISNEY-pink?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FVEC-BMV)](https://edu.cospaces.io/VEC-BMV)
 
