@@ -52,7 +52,7 @@ Courses Taken For Each Language
 
 ```
 Python: 기본 프로그래밍 (24-1학기), 심화 프로그래밍 (24-1 학기)
-JavaScript: 고등학교 AP Computer Science A (2023, AP Exam 5/5), 예술공학개론 (24-1학기)
+JavaScript: 고등학교 AP Computer Science A (2023), 예술공학개론 (24-1학기)
 C++: 객체지향프로그래밍 (24-2학기)
 HTML: 고등학교 AP Computer Science A (2023)
 ```
