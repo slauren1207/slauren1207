@@ -94,11 +94,14 @@ Procreate: Advanced Art II (2023)
 
 - Local Game Website Creation using HTML (고등학교)
 - Diet Suggestion Chatbot Creation using Google Dialogflow
-- Pu-Ang Platformer Game using Teachable Machine Learning controls
-- AR MERGECUBE Recreation of Disney Movies using COSPACES
+- Puang Platformer Game using Teachable Machine Learning controls ![Puang Badge](https://img.shields.io/badge/PUANG%20PLATFORMER%20GAME-blue?style=for-the-badge&logoColor=white&link=https%3A%2F%2Feditor.p5js.org%2Fslauren1207%2Fsketches%2F95592_ePw-)
+
+- AR MERGECUBE Recreation of Disney Movies using COSPACES ![AR Badge](https://img.shields.io/badge/AR%20MAGIC%20OF%20DISNEY-pink?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FVEC-BMV)
+
 - Hologram Video of the Four Seasons
 - Bubble Shooter Game Creation using Pygame
-- VR Fantasy Murder Mystery Game Creation using COSPACES
+- VR Fantasy Murder Mystery Game Creation using COSPACES ![VR Badge](https://img.shields.io/badge/VR%20Tragedy%20Befalls%20Elvendom-FF69B4?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FAVX-WQN)
+
 - Hypothetical Movie Poster Creation using Photoshop (On-Going)
 <hr>
 
