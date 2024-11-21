@@ -96,7 +96,7 @@ Procreate: Advanced Art II (2023)
 - Diet Suggestion Chatbot Creation using Google Dialogflow
 - Puang Platformer Game using Teachable Machine Learning controls ![Puang Badge](https://img.shields.io/badge/PUANG%20PLATFORMER%20GAME-blue?style=for-the-badge&logoColor=white&link=https%3A%2F%2Feditor.p5js.org%2Fslauren1207%2Fsketches%2F95592_ePw-)
 
-- AR MERGECUBE Recreation of Disney Movies using COSPACES ![AR Badge](https://img.shields.io/badge/AR%20MAGIC%20OF%20DISNEY-pink?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FVEC-BMV)
+- AR MERGECUBE Recreation of Disney Movies using COSPACES [![AR Badge](https://img.shields.io/badge/AR%20MAGIC%20OF%20DISNEY-pink?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FVEC-BMV)](https://edu.cospaces.io/VEC-BMV)
 
 - Hologram Video of the Four Seasons
 - Bubble Shooter Game Creation using Pygame
