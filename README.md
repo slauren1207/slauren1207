@@ -10,7 +10,7 @@
   </div>
 
 
-### 간단한 자기소개 (Basic Self Introduction)
+### Let Me Introduce Myself...
 
 <!--![KakaoTalk_20241113_193246928_03](https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088)-->
 <img align="left" src="https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088" width="230">
@@ -18,24 +18,25 @@
 
 <hr>
 
-- **이름 & 학번 (Name & Student ID):** 성예정 (Yejeong Seong), 20246178 	 :slightly_smiling_face:
+- **Name:** Yejeong Seong
 
-- **교육 (Education):** 케냐 Rift Valley Academy 2023년 졸업 :mortar_board:, 현재 중앙대학교 예술공학부 전공 :school: (Graduated from Rift Valley Academy in Kenya in 2023, Currently attending Chung-Ang University Art & Technology Major)
+- **Education:** Graduate of Rift Valley Academy Class of 2023 :mortar_board:, Current attendee of Chung-Ang University Art & Technology Major :school: 
   
-- **MBTI:** ISTP/ISFP :sunglasses:
+- **MBTI:** ISTP/ISFP  
 
-- **TMI:** 저는 한국, 뉴질랜드, 미국, 케냐, 우간다 총 5개 국가에서 살았습니다 :world_map: (I have lived in 5 countries in total: South Korea, New Zealand, USA, Kenya, and Uganda.) Thus, I am very fluent in English, and I highly pride myself in being able to adapt very swiftly.  
+- **Fields of Interests:** Visual Art & Digital Illustration :art:, 2D & 3D Animation :tv:, Music :notes:, Game Creation :video_game:, Storytelling Director :open_book: 
 
-- **관심사 (Interests):** 미술 :art:, 애니메이션 :tv:, 음악 :notes:, 게임 :video_game:, 스토리텔링 :open_book:(Art, Animation, Music, Game, Literature) 
+- **TMI:** I have lived in 5 countries in total: South Korea, New Zealand, USA, Kenya, and Uganda :world_map:. Thus, I am very fluent in English. Also, due to constantly moving abroad, I have gained the ability adapt very swiftly to different situations and to respect the diverse cultures/opinions that may exist in all team settings. After having lived more than 3/4 of my life abroad, I am proud to call myself "a Korean who shared a foreign mindset."
+
 <hr>
 
-> ### **Goal:**
-> "To **grow and mature as a 3D artist** who is not only skilled in her work, but also channels **unique perspectives from her multicultural experience overseas**."
+> ### **Career Goal:**
+> "To **grow and mature as a 3D and graphic artist** who is not only skilled in her work, but as a creator who can share **unique ideas & perspectives from her multicultural experience overseas**."
 
 <br>
 <img align="right" src="https://images.stockcake.com/public/6/c/8/6c866598-4e1a-4256-b308-06e72d79ed45_large/futuristic-coding-workspace-stockcake.jpg" width="250">
 
-### 기존에 배워본 프로그래밍 언어 (Programming Languages Previously Taught)
+### Programming Languages I Can Use
 
 <div align="center">
   
@@ -53,9 +54,8 @@ JavaScript: 고등학교 AP Computer Science A (2023, AP Exam Score 5/5), 예술
 C++: 객체지향프로그래밍 (24-2학기)
 HTML: 고등학교 AP Computer Science A (2023)
 ```
-<br>
 
-### 다른 예술공학 관련 기술 (Other Art & Technology Related Skills)
+### Other Art & Technology Related Skills I Have Developed
 
 <img align="right" src="https://www.theartist.me/wp-content/uploads/2023/10/future-of-art.jpg" width="250">
 
@@ -85,7 +85,7 @@ Premiere Pro: 컨셉 스튜디오 (24-1 학기), 예술공학개론 (24-1 학기
 Procreate: Advanced Art II (2023)
 ```
 
-### 현재까지 진행한 프로젝트
+### Art & Technology Projects I Have Created So Far
 
 - Website Creation using HTML (고등학교)
 - Diet Suggestion Chatbot Creation using Google Dialogflow
@@ -94,15 +94,15 @@ Procreate: Advanced Art II (2023)
 - Bubble Shooter Game Creation using Pygame
 - VR Fantasy Murder Mystery Game Creation using COSPACES
 - Hypothetical Movie Poster Creation using Photoshop (On-Going)
-<br>
 
-### 제 Github 활약 현황: Github Stats
+### My Current GitHub Stats
 <div align="center">
   
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slauren1207)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-### 같이 작업하고 싶으신 분은 모두 환영입니다! 여기로 연락주세요! Reach Me Here:
+### I would love to work with you to create "Something New, Something Different!" 
+>If you are interested in working with me, please feel free to contact me here! 
 <div align="center">
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:slauren1207@gmail.com)](mailto:slauren1207@gmail.com)
