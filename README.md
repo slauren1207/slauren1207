@@ -111,7 +111,7 @@ Procreate: 고등학교 Advanced Art II (2023)
 <hr>
 
 ### I would love to work with you to create "Something New, Something Different!" 
->If you are interested in collaborating with me, please feel free to contact me here! :mailbox_with_mail::calling:
+>If you are interested in collaborating with me or want to become friends with someone with similar interests as you, please feel free to contact me here! :mailbox_with_mail::calling:
 <div align="center">
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail_slauren1207@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:slauren1207@gmail.com)
