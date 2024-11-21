@@ -92,7 +92,8 @@ Procreate: Advanced Art II (2023)
 - VR Fantasy Murder Mystery Game Creation using COSPACES
 - Hypothetical Movie Poster Creation using Photoshop (On-Going)
 
-### 제 Github 활약 정보입니다: Github Stats
+
+### 제 Github 활약 현황: Github Stats
 <div align="center">
   
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slauren1207)](https://github.com/anuraghazra/github-readme-stats)
