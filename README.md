@@ -94,6 +94,7 @@ Procreate: Advanced Art II (2023)
 
 - Local Game Website Creation using HTML (고등학교)
 - Diet Suggestion Chatbot Creation using Google Dialogflow
+- Pu-Ang Platformer Game using Teachable Machine Learning controls
 - AR MERGECUBE Recreation of Disney Movies using COSPACES
 - Hologram Video of the Four Seasons
 - Bubble Shooter Game Creation using Pygame
