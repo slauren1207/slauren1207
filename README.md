@@ -26,10 +26,13 @@
 
 - **TMI:** 저는 한국, 뉴질랜드, 미국, 케냐, 우간다 총 5개 국가에서 살았습니다 :world_map: (I have lived in 5 countries in total: South Korea, New Zealand, USA, Kenya, and Uganda.) Thus, I am very fluent in English, and I highly pride myself in being able to adapt very swiftly.  
 
-- **관심사 (Interests):** 미술 :art:, 애니메이션 :tv:, 음악 :notes:, 게임 :video_game:, 스토리텔링 :open_book:(Art, Animation, Music, Game, Literature)
+- **관심사 (Interests):** 미술 :art:, 애니메이션 :tv:, 음악 :notes:, 게임 :video_game:, 스토리텔링 :open_book:(Art, Animation, Music, Game, Literature) 
 <hr>
-<br>
 
+> ### **Goal:**
+> "To **grow and mature as a 3D artist** who is not only skilled in her work, but also channels **unique perspectives from her multicultural experience overseas**."
+
+<br>
 <img align="right" src="https://images.stockcake.com/public/6/c/8/6c866598-4e1a-4256-b308-06e72d79ed45_large/futuristic-coding-workspace-stockcake.jpg" width="250">
 
 ### 기존에 배워본 프로그래밍 언어 (Programming Languages Previously Taught)
