@@ -107,7 +107,7 @@ Procreate: Advanced Art II (2023)
 <hr>
 
 ### I would love to work with you to create "Something New, Something Different!" 
->If you are interested in working with me, please feel free to contact me here! 
+>If you are interested in collaborating with me, please feel free to contact me here! 
 <div align="center">
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:slauren1207@gmail.com)](mailto:slauren1207@gmail.com)
