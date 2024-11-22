@@ -12,23 +12,24 @@ A Korean Student with a Foreign Heart & Soul
 <hr>
 
 
-### Basic Introduction
+### Basic Introduction: Yejeong Seong (성예정)
 
 <!--![KakaoTalk_20241113_193246928_03](https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088)-->
-<img align="left" src="https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088" width="230">
+<img align="left" src="https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088" width="180">
 
 
+<p>
+	
+- **Education :mortar_board:** Class of 2023 graduate of Rift Valley Academy (Kenya) | Current attendee of Chung-Ang University Art & Technology Major
 
-- **Name:** Yejeong Seong (성예정)
+- **Personality Traits:** ISTP/ISFP | Deeply values responsibility and commitment, Observant, Quiet but always yearning to learn new things
 
-- **Education:** Class of 2023 graduate of Rift Valley Academy (Kenya) :mortar_board:, Current attendee of Chung-Ang University Art & Technology Major :school: 
-  
-- **Personality Traits:** ISTP/ISFP, Deeply values responsibility and commitment, Observant, Quiet but always yearning to learn new things
+- **Fields of Interest :art::** Visual Art & Digital Illustration , 2D & 3D Animation, Music, Game Creation, Storytelling 
 
-- **Fields of Interest:** Visual Art & Digital Illustration :art:, 2D & 3D Animation :tv:, Music :notes:, Game Creation :video_game:, Storytelling :open_book: 
+- **Multicultural Identity :world_map::** Possesses a third-culture identity shaped by living across Korea/New Zealand/the U.S./Kenya/Uganda | Highly adaptable due to having constantly moved abroad | Prioritizes respecting the diverse opinions in team settings
 
-- **Multicultural Identity:** Possesses a third-culture identity shaped by living across Korea, New Zealand, the U.S., Kenya, and Uganda :world_map:,  Fluent in both Korean and English, Gained the ability to adapt swiftly to different situations due to having constantly moved abroad, Prioritizes respecting the diverse cultures/opinions that may exist in all team settings
-
+</p>
+<br>
 <hr>
 
 > ### **Career Goal :memo:**
