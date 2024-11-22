@@ -19,15 +19,15 @@ A Korean Student with a Foreign Heart & Soul
 
 
 
-- **Name:** Yejeong Seong
+- **Name:** Yejeong Seong (성예정)
 
-- **Education:** Class of 2023 Graduate of Rift Valley Academy, Kenya :mortar_board:, Current attendee of Chung-Ang University Art & Technology Major :school: 
+- **Education:** Class of 2023 graduate of Rift Valley Academy (Kenya) :mortar_board:, Current attendee of Chung-Ang University Art & Technology Major :school: 
   
-- **Personality Traits:** ISTP/ISFP, Has a strong sense of responsibility and highly value commitments, Quiet but always yearning to learn new things
+- **Personality Traits:** ISTP/ISFP, Has a strong sense of responsibility and highly value commitments, Observant, Quiet but always yearning to learn new things
 
 - **Fields of Interest:** Visual Art & Digital Illustration :art:, 2D & 3D Animation :tv:, Music :notes:, Game Creation :video_game:, Storytelling Director :open_book: 
 
-- **Love For Diversity:** I have lived in 5 countries in total (South Korea, New Zealand, USA, Kenya, and Uganda) :world_map:.  Due to spending more than 3/4 of my life outside of Korea, I am now fluent in both Korean and English. Also, due to constantly moving abroad, I have gained the ability to adapt very swiftly to different situations and to respect the diverse cultures/opinions that may exist in all team settings.
+- **Multicultural Identity:** Harbors a Third-Culture Identity from having lived in diverse cultures (South Korea, New Zealand, USA, Kenya, and Uganda) :world_map:,  Fluent in both Korean and English, Able to adapt swiftly to different situations due to constantly moving abroad, Prioritize respecting the diverse cultures/opinions that may exist in all team settings
 
 <hr>
 
@@ -90,7 +90,7 @@ Procreate: 고등학교 Advanced Art II (2023)
 ```
 <hr>
 
-### Art & Technology Projects I Have Created So Far
+### My Portfolio of Art & Technology Projects
 
 - **FitChew:** Diet Suggestion Chatbot Creation using Google Dialogflow
 - **Puang's Graduation Adventure:** Platformer Game depicting Chung-ang University's mascot Puang, created using p5.js & Teachable Machine Learning controls [![Puang Badge](https://img.shields.io/badge/PUANG%20PLATFORMER%20GAME-blue?style=flat-square&logoColor=white&link=https%3A%2F%2Feditor.p5js.org%2Fslauren1207%2Fsketches%2F95592_ePw-)](https://editor.p5js.org/slauren1207/sketches/95592_ePw-)
