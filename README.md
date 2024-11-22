@@ -38,7 +38,7 @@ A Korean Student with a Foreign Heart & Soul
 > ### **Career Goals :memo:**
 > - "To further **enhance my skillsets as a 3D graphic artist,** like mastering coding and 3D modeling."<br>
 > - "To **globally collaborate** with teams from diverse backgrounds and craft **innovative works fusing culture, art, and technology.**" 
-
+><br>
 <hr>
 
 ## Programming Languages I Can Use 
@@ -110,6 +110,7 @@ Teachable Machine: ★★★☆☆ (3/5) | 예술공학개론
 
 - **Tragedy Befalls Elvendom:** VR Fantasy Murder Mystery Game where you seek hidden clues (CoSpaces) [![VR Badge](https://img.shields.io/badge/VR%20MYSTERY%20GAME-FF69B4?style=flat-square&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FAVX-WQN)](https://edu.cospaces.io/AVX-WQN)
 
+<br>
 <hr>
 
 ## My Current GitHub Stats :bar_chart:
@@ -117,6 +118,7 @@ Teachable Machine: ★★★☆☆ (3/5) | 예술공학개론
   
  [![Yejeong's github stats](https://github-readme-stats.vercel.app/api?username=slauren1207&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+<br>
 <hr>
 
 ## I would love to work with you to create "Something New, Something Different!" 
