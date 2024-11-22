@@ -61,7 +61,7 @@ HTML: ★★☆☆☆ (2/5)       | 고등학교 AP Computer Science A (2023)
 <br>
 <hr>
 
-## Other Art & Technology Related Skills I Have Developed
+## Other Art & Technology Related Skills
 
 
 
