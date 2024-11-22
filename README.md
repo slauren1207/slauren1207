@@ -33,7 +33,8 @@ A Korean Student with a Foreign Heart & Soul
 <hr>
 
 > ### **Career Goal :memo:**
-> "To **mature as a skilled 3D graphic artist** who, as a creator, crafts unique meaningful projects **inspired by her love for diversity and her multicultural perspective**."
+> - "To further **enhance my skillsets as a 3D graphic artist** and craft meaningful projects **inspired by my love for diversity and my multicultural perspective**." <br>
+> - "To **globally collaborate** with teams from diverse cultural backgrounds to create **innovative works fusing cultures, art, and technology**." 
 
 <hr>
 
