@@ -12,7 +12,7 @@ A Korean Student with a Foreign Heart & Soul
 <hr>
 
 
-### Basic Introduction: Yejeong Seong (성예정)
+### Basic Introduction
 
 <!--![KakaoTalk_20241113_193246928_03](https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088)-->
 <img align="left" src="https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088" width="180">
@@ -20,6 +20,7 @@ A Korean Student with a Foreign Heart & Soul
 
 <p>
 	
+- **Name:** Yejeong Seong (성예정)
 - **Education :mortar_board:** Class of 2023 graduate of Rift Valley Academy (Kenya) | Current attendee of Chung-Ang University Art & Technology Major
 
 - **Personality Traits:** ISTP/ISFP | Deeply values responsibility and commitment, Observant, Quiet but always yearning to learn new things
@@ -29,7 +30,6 @@ A Korean Student with a Foreign Heart & Soul
 - **Multicultural Identity :world_map::** Possesses a third-culture identity shaped by living across Korea/New Zealand/the U.S./Kenya/Uganda | Highly adaptable due to having constantly moved abroad | Prioritizes respecting the diverse opinions in team settings
 
 </p>
-<br>
 <hr>
 
 > ### **Career Goal :memo:**
