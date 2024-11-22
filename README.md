@@ -107,7 +107,7 @@ Teachable Machine: ★★★☆☆ (3/5) | 예술공학개론 (24-1학기)
 
 - **Puang's Graduation Adventure:** Camera-Interactive Platformer Game depicting Chung-ang University's mascot Puang moving when the player uses specific hand gestures (p5.js & Teachable Machine) [![Puang Badge](https://img.shields.io/badge/PUANG%20PLATFORMER%20GAME-blue?style=flat-square&logoColor=white&link=https%3A%2F%2Feditor.p5js.org%2Fslauren1207%2Fsketches%2F95592_ePw-)](https://editor.p5js.org/slauren1207/sketches/95592_ePw-)
 
-- **Tragedy Befalls Elvendom:** VR Fantasy Murder Mystery Game in which the player must investigate clues to find the suspect (CoSpaces) [![VR Badge](https://img.shields.io/badge/VR%20TRAGEDY%20BEFALLS%20ELVENDOM-FF69B4?style=flat-square&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FAVX-WQN)](https://edu.cospaces.io/AVX-WQN)
+- **Tragedy Befalls Elvendom:** VR Fantasy Murder Mystery Game where the player investigates clues to find the suspect (CoSpaces) [![VR Badge](https://img.shields.io/badge/VR%20TRAGEDY%20BEFALLS%20ELVENDOM-FF69B4?style=flat-square&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FAVX-WQN)](https://edu.cospaces.io/AVX-WQN)
 
 <hr>
 
