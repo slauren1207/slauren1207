@@ -43,7 +43,7 @@ A Korean Student with a Foreign Heart & Soul
 
 ## Programming Languages I Can Use 
 
-<img align="right" src="https://images.stockcake.com/public/6/c/8/6c866598-4e1a-4256-b308-06e72d79ed45_large/futuristic-coding-workspace-stockcake.jpg" width="220">
+<img align="right" src="https://images.stockcake.com/public/6/c/8/6c866598-4e1a-4256-b308-06e72d79ed45_large/futuristic-coding-workspace-stockcake.jpg" width="215">
 
 <div align="center">
   
@@ -87,7 +87,7 @@ HTML: ★★☆☆☆ (2/5)       | 고등학교 AP Computer Science A
 <!--<img align="right" src="https://www.theartist.me/wp-content/uploads/2023/10/future-of-art.jpg" width="250">-->
 
 Skill Level & Courses Taken For Each Skill
-<img align="right" src="https://github.com/user-attachments/assets/1237947e-04a9-4220-8c6c-cd4352996ad9" width="220">
+<img align="right" src="https://github.com/user-attachments/assets/1237947e-04a9-4220-8c6c-cd4352996ad9" width="215">
 ```
 CoSpaces: ★★★★★ (5/5)          | 비주얼 컴퓨팅
 Procreate: ★★★★★ (5/5)         | 고등학교 Advanced Art II 
