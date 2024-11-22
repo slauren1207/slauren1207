@@ -23,11 +23,11 @@ A Korean Student with a Foreign Heart & Soul
 - **Name:** Yejeong Seong (성예정)
 - **Education :mortar_board:** Class of 2023 graduate of Rift Valley Academy (Kenya) | Current attendee of Chung-Ang University Art & Technology Major
 
-- **Personality Traits:** ISTP/ISFP | Deeply values responsibility and commitment, Observant, Quiet but always yearning to learn new things
+- **Personality Traits:** ISTP/ISFP | Deeply values responsibility and commitment | Observant | Quiet but always yearning to learn new things
 
-- **Fields of Interest :art::** Visual Art & Digital Illustration , 2D & 3D Animation, Music, Game Creation, Storytelling 
+- **Fields of Interest :art::** Visual Art & Digital Illustration | 2D & 3D Animation | Music | Game Creation | Storytelling 
 
-- **Multicultural Identity :world_map::** Possesses a third-culture identity shaped by living across Korea/New Zealand/the U.S./Kenya/Uganda | Highly adaptable due to having constantly moved abroad | Prioritizes respecting the diverse opinions in team settings
+- **Multicultural Identity :world_map::** Possesses a third-culture identity (Korea, New Zealand, the U.S., Kenya, Uganda) | Highly adaptable due to having constantly moved abroad | Prioritizes respecting the diverse opinions in team settings
 
 </p>
 <hr>
@@ -37,9 +37,11 @@ A Korean Student with a Foreign Heart & Soul
 
 
 <hr>
-<img align="right" src="https://images.stockcake.com/public/6/c/8/6c866598-4e1a-4256-b308-06e72d79ed45_large/futuristic-coding-workspace-stockcake.jpg" width="250">
+
 
 ### Programming Languages I Can Use
+
+<img align="right" src="https://images.stockcake.com/public/6/c/8/6c866598-4e1a-4256-b308-06e72d79ed45_large/futuristic-coding-workspace-stockcake.jpg" width="200">
 
 <div align="center">
   
@@ -76,7 +78,8 @@ HTML: 고등학교 AP Computer Science A (2023)
 
 </div>
 
-<img align="right" src="https://www.theartist.me/wp-content/uploads/2023/10/future-of-art.jpg" width="250">
+<!--<img align="right" src="https://www.theartist.me/wp-content/uploads/2023/10/future-of-art.jpg" width="250">-->
+<img align="right" src="https://media.licdn.com/dms/image/D4D12AQGKRn1uT5B2gQ/article-cover_image-shrink_720_1280/0/1685960350831?e=2147483647&v=beta&t=DlDdr2MAustBaDF_JWN9v0EmzT9pLUe8_rmnFouvtHk" width="200">
 
 Courses Taken For Each Skill
 
