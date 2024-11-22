@@ -31,13 +31,13 @@ A Korean Student with a Foreign Heart & Soul
 
 </p>
 <hr>
+<br>
 
 > ### **Career Goal :memo:**
 > "To **mature as a skilled 3D graphic artist** who, as a creator, crafts unique meaningful projects **inspired by her love for diversity and her multicultural perspective**."
 
-
 <hr>
-
+<br>
 
 ### Programming Languages I Can Use
 
@@ -45,10 +45,10 @@ A Korean Student with a Foreign Heart & Soul
 
 <div align="center">
   
-[![Python Badge](https://img.shields.io/badge/Python-03776Ab?style=for-the-badge&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F)](https://www.python.org/)
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white&link=https%3A%2F%2Fwww.javascript.com%2F)](https://www.javascript.com/)
-[![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599c?style=for-the-badge&logo=cplusplus&logoColor=white&link=https%3A%2F%2Fisocpp.org%2F)](https://isocpp.org/)
-[![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https%3A%2F%2Fhtml.com%2F)](https://html.com/)
+[![Python Badge](https://img.shields.io/badge/PYTHON-03776Ab?style=flat-square&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F)](https://www.python.org/)
+[![JavaScript Badge](https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=flat-square&logo=javascript&logoColor=white&link=https%3A%2F%2Fwww.javascript.com%2F)](https://www.javascript.com/)
+[![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599c?style=flat-square&logo=cplusplus&logoColor=white&link=https%3A%2F%2Fisocpp.org%2F)](https://isocpp.org/)
+[![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&link=https%3A%2F%2Fhtml.com%2F)](https://html.com/)
 </div>
 
 Courses Taken For Each Language
@@ -60,6 +60,7 @@ C++: 객체지향프로그래밍 (24-2학기)
 HTML: 고등학교 AP Computer Science A (2023)
 ```
 <hr>
+<br>
 
 ### Other Art & Technology Related Skills I Have Developed
 
@@ -93,6 +94,7 @@ Premiere Pro: 컨셉 스튜디오 (24-1 학기), 예술공학개론 (24-1 학기
 Procreate: 고등학교 Advanced Art II (2023)
 ```
 <hr>
+<br>
 
 ### My Portfolio of Art & Technology Projects
 
@@ -106,6 +108,7 @@ Procreate: 고등학교 Advanced Art II (2023)
 - **Tragedy Befalls Elvendom:** VR Fantasy Murder Mystery Game in which the player must investigate clues to find the suspect, created using CoSpaces [![VR Badge](https://img.shields.io/badge/VR%20TRAGEDY%20BEFALLS%20ELVENDOM-FF69B4?style=flat-square&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FAVX-WQN)](https://edu.cospaces.io/AVX-WQN)
 
 <hr>
+<br>
 
 ### My Current GitHub Stats :bar_chart:
 <div align="center">
@@ -113,6 +116,7 @@ Procreate: 고등학교 Advanced Art II (2023)
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slauren1207)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <hr>
+<br>
 
 ### I would love to work with you to create "Something New, Something Different!" 
 >If you are interested in collaborating with me or want to become friends with someone with similar interests as you, please feel free to contact me here! :mailbox_with_mail::calling:
