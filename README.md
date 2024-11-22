@@ -117,12 +117,12 @@ Teachable Machine: ★★★☆☆ (3/5) | 예술공학개론
 ## My Current GitHub Stats :bar_chart:
 <div align="center">
   
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slauren1207&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+ [![Yejeong's github stats](https://github-readme-stats.vercel.app/api?username=slauren1207&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <hr>
 
 ## I would love to work with you to create "Something New, Something Different!" 
->If you are interested in collaborating with me or want to become friends with someone with similar interests as you, please feel free to contact me here! :mailbox_with_mail::calling:
+>If you are interested in collaborating with a multicultural student and creating a project that transcends the boundaries of culture, art, and technology, please feel free to contact me here! :mailbox_with_mail::calling:
 <div align="center">
 
 [![Gmail Badge](https://img.shields.io/badge/GMAIL_slauren1207@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:slauren1207@gmail.com)
