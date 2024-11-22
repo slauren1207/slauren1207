@@ -12,7 +12,7 @@ A Korean Student with a Foreign Heart & Soul
 <hr>
 
 
-### Basic Introduction
+## Basic Introduction
 
 <!--![KakaoTalk_20241113_193246928_03](https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088)-->
 <img align="left" src="https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088" width="180">
@@ -38,7 +38,7 @@ A Korean Student with a Foreign Heart & Soul
 
 <hr>
 
-### Programming Languages I Can Use 
+## Programming Languages I Can Use 
 
 <img align="right" src="https://images.stockcake.com/public/6/c/8/6c866598-4e1a-4256-b308-06e72d79ed45_large/futuristic-coding-workspace-stockcake.jpg" width="220">
 
@@ -61,7 +61,7 @@ HTML: ★★☆☆☆ (2/5)       | 고등학교 AP Computer Science A (2023)
 <br>
 <hr>
 
-### Other Art & Technology Related Skills I Have Developed
+## Other Art & Technology Related Skills I Have Developed
 
 
 
@@ -97,7 +97,7 @@ Teachable Machine: ★★★☆☆ (3/5) | 예술공학개론 (24-1학기)
 ```
 <hr>
 
-### My Portfolio of Art & Technology Projects :computer:
+## My Portfolio of Art & Technology Projects :computer:
 
 - **Bubble Kingdom Adventure:** Bubble Shooter Game in which the player must shoot and match bubbles of the same color to earn points (Pygame)
 - **Changing Seasons:** Four-sided Hologram video depicting the beatufy of the four seasons (PowerPoint)
@@ -111,14 +111,14 @@ Teachable Machine: ★★★☆☆ (3/5) | 예술공학개론 (24-1학기)
 
 <hr>
 
-### My Current GitHub Stats :bar_chart:
+## My Current GitHub Stats :bar_chart:
 <div align="center">
   
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slauren1207&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <hr>
 
-### I would love to work with you to create "Something New, Something Different!" 
+## I would love to work with you to create "Something New, Something Different!" 
 >If you are interested in collaborating with me or want to become friends with someone with similar interests as you, please feel free to contact me here! :mailbox_with_mail::calling:
 <div align="center">
 
