@@ -25,7 +25,7 @@ A Korean Student with a Foreign Heart & Soul
 
 - **Personality Traits :speaking_head::** ISTP/ISFP | Deeply values responsibility and commitment | Observant | Quiet but always yearning to learn more
 
-- **Fields of Interest :art::** Digital Illustration | 2D & 3D Animation | Music | Game Creation | Storytelling 
+- **Fields of Interest :art::** Digital Illustration | 2D & 3D Animation | Music | Game Creation | CGI
 
 - **Multicultural Identity :earth_africa::** Possesses a third-culture identity (Korea, New Zealand, U.S.A., Kenya, Uganda) | Highly adaptable due to having constantly moved abroad | Love cultural diversity in team settings
 
