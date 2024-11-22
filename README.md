@@ -43,7 +43,7 @@ A Korean Student with a Foreign Heart & Soul
 [![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&link=https%3A%2F%2Fhtml.com%2F)](https://html.com/)
 </div> 
 
-Skill Level & Courses Taken For Each Language
+Skill Mastery Level & Courses Taken For Each Language
 
 ```
 Python: ★★★★☆ (4/5)     | 기본 프로그래밍, 심화 프로그래밍
@@ -71,7 +71,7 @@ HTML: ★★☆☆☆ (2/5)       | 고등학교 AP Computer Science A
 
 <!--![art   tech](https://github.com/user-attachments/assets/1237947e-04a9-4220-8c6c-cd4352996ad9)-->
 
-Skill Level & Courses Taken For Each Skill
+Skill Mastery Level & Courses Taken For Each Skill
 <img align="right" src="https://github.com/user-attachments/assets/1237947e-04a9-4220-8c6c-cd4352996ad9" width="215">
 
 ```
