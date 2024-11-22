@@ -67,11 +67,10 @@ HTML: ★★☆☆☆ (2/5)       | 고등학교 AP Computer Science A
 ## Other Art & Technology Related Skills
 
 
-
+<img align="right" src="https://github.com/user-attachments/assets/1237947e-04a9-4220-8c6c-cd4352996ad9" width="215">
 <div align="center">
 	
 [![CoSpaces Badge](https://img.shields.io/badge/COSPACES-FF69B4?style=flat-square&logoColor=white&link=https%3A%2F%2Fwww.cospaces.io%2F)](https://www.cospaces.io/)
-[![Procreate Badge](https://img.shields.io/badge/PROCREATE-FFB6C1?style=flat-square&logoColor=white&link=https%3A%2F%2Fprocreate.com%2F)](https://procreate.com/)
 [![Photoshop Badge](https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white&link=https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fphotoshop.html)](https://www.adobe.com/products/photoshop.html)
 [![Premiere Pro Badge](https://img.shields.io/badge/PREMIERE%20PRO-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white&link=https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fpremiere.html)](https://www.adobe.com/products/premiere.html)
 [![Dialoflow Badge](https://img.shields.io/badge/DIALOGFLOW-FF9800?style=flat-square&logo=dialogflow&logoColor=white&link=https%3A%2F%2Fdialogflow.cloud.google.com%2F)](https://dialogflow.cloud.google.com/)
@@ -81,19 +80,15 @@ HTML: ★★☆☆☆ (2/5)       | 고등학교 AP Computer Science A
 
 </div>
 
-<!--![1685960350831 1  (1)](https://github.com/user-attachments/assets/e4447cc7-2a35-4277-9ea9-3fa334978417)-->
 <!--![art   tech](https://github.com/user-attachments/assets/1237947e-04a9-4220-8c6c-cd4352996ad9)-->
 
-<!--<img align="right" src="https://www.theartist.me/wp-content/uploads/2023/10/future-of-art.jpg" width="250">-->
-
 Skill Level & Courses Taken For Each Skill
-<img align="right" src="https://github.com/user-attachments/assets/1237947e-04a9-4220-8c6c-cd4352996ad9" width="215">
+
 ```
 CoSpaces: ★★★★★ (5/5)          | 비주얼 컴퓨팅
-Procreate: ★★★★★ (5/5)         | 고등학교 Advanced Art II 
 Photoshop: ★★★★☆ (4/5)         | 응용예술공학 
 Premiere Pro: ★★★★☆ (4/5)      | 컨셉 스튜디오, 예술공학개론 
-Google Dialogflow: ★★★☆☆ (3/5) | 심화 프로그래밍 
+Dialogflow: ★★★☆☆ (3/5)        | 심화 프로그래밍 
 Illustrator: ★★★☆☆ (3/5)       | 응용예술공학
 Maya: ★★★☆☆ (3/5)              | 예술공학개론, 응용예술공학
 Teachable Machine: ★★★☆☆ (3/5) | 예술공학개론 
