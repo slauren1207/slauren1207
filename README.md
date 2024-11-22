@@ -21,7 +21,7 @@ A Korean Student with a Foreign Heart & Soul
 <p>
 	
 - **Name:** Yejeong Seong (성예정)
-- **Education :mortar_board::** Graduate of Rift Valley Academy (Kenya) | Current Art & Technology Major at Chung-Ang University
+- **Education :mortar_board::** Rift Valley Academy Graduate (Kenya) | Current Art & Technology Major at Chung-Ang University
 
 - **Personality Traits :speaking_head::** ISTP/ISFP | Deeply values responsibility and commitment | Observant | Quiet but always yearning to learn more
 
