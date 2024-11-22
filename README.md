@@ -76,11 +76,13 @@ HTML: 고등학교 AP Computer Science A (2023)
 
 </div>
 
+<!--![1685960350831 1  (1)](https://github.com/user-attachments/assets/e4447cc7-2a35-4277-9ea9-3fa334978417)-->
+<!--![art   tech](https://github.com/user-attachments/assets/1237947e-04a9-4220-8c6c-cd4352996ad9)-->
+
 <!--<img align="right" src="https://www.theartist.me/wp-content/uploads/2023/10/future-of-art.jpg" width="250">-->
-<img align="right" src="https://media.licdn.com/dms/image/D4D12AQGKRn1uT5B2gQ/article-cover_image-shrink_720_1280/0/1685960350831?e=2147483647&v=beta&t=DlDdr2MAustBaDF_JWN9v0EmzT9pLUe8_rmnFouvtHk" width="200">
 
 Courses Taken For Each Skill
-
+<img align="right" src="https://github.com/user-attachments/assets/1237947e-04a9-4220-8c6c-cd4352996ad9" width="200">
 ```
 Teachable Machine: 예술공학개론 (24-1 학기)
 CoSpaces: 비주얼 컴퓨팅 (24-2 학기)
