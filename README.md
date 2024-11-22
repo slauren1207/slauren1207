@@ -99,7 +99,7 @@ Teachable Machine: ★★★☆☆ (3/5) | 예술공학개론
 
 - **Tragedy Befalls Elvendom:** VR Fantasy Murder Mystery Game where you seek hidden clues (CoSpaces) [![VR Badge](https://img.shields.io/badge/VR%20MYSTERY%20GAME-FF69B4?style=flat-square&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FAVX-WQN)](https://edu.cospaces.io/AVX-WQN)
 
-
+<br>
 <hr>
 
 ## My Current GitHub Stats :bar_chart:
