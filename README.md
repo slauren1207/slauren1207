@@ -51,7 +51,7 @@ JavaScript: ★★★★☆ (4/5) | 고등학교 AP Computer Science A, 예술�
 C++: ★★★☆☆ (3/5)        | 객체지향프로그래밍
 HTML: ★★☆☆☆ (2/5)       | 고등학교 AP Computer Science A
 ```
-<br>
+
 <hr>
 
 ## Other Art & Technology Related Skills
@@ -84,7 +84,7 @@ Illustrator: ★★★☆☆ (3/5)       | 응용예술공학
 Maya: ★★★☆☆ (3/5)              | 예술공학개론, 응용예술공학
 Teachable Machine: ★★★☆☆ (3/5) | 예술공학개론 
 ```
-<br>
+
 <hr>
 
 ## My Portfolio of Art & Technology Projects :computer:
@@ -99,7 +99,7 @@ Teachable Machine: ★★★☆☆ (3/5) | 예술공학개론
 
 - **Tragedy Befalls Elvendom:** VR Fantasy Murder Mystery Game where you seek hidden clues (CoSpaces) [![VR Badge](https://img.shields.io/badge/VR%20MYSTERY%20GAME-FF69B4?style=flat-square&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FAVX-WQN)](https://edu.cospaces.io/AVX-WQN)
 
-<br>
+
 <hr>
 
 ## My Current GitHub Stats :bar_chart:
@@ -107,7 +107,7 @@ Teachable Machine: ★★★☆☆ (3/5) | 예술공학개론
   
  [![Yejeong's github stats](https://github-readme-stats.vercel.app/api?username=slauren1207&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-<br>
+
 <hr>
 
 ## I would love to work with you to create "Something New, Something Different!" 
