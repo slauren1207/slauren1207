@@ -15,7 +15,7 @@ A Korean Student with a Foreign Heart & Soul
 ### Basic Introduction
 
 <!--![KakaoTalk_20241113_193246928_03](https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088)-->
-<img align="left" src="https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088" width="225">
+<img align="left" src="https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088" width="230">
 
 
 
@@ -23,7 +23,7 @@ A Korean Student with a Foreign Heart & Soul
 
 - **Education:** Class of 2023 graduate of Rift Valley Academy (Kenya) :mortar_board:, Current attendee of Chung-Ang University Art & Technology Major :school: 
   
-- **Personality Traits:** ISTP/ISFP, Has a strong sense of responsibility and highly value commitments, Observant, Quiet but always yearning to learn new things
+- **Personality Traits:** ISTP/ISFP, Deeply values responsibility and commitment, Observant, Quiet but always yearning to learn new things
 
 - **Fields of Interest:** Visual Art & Digital Illustration :art:, 2D & 3D Animation :tv:, Music :notes:, Game Creation :video_game:, Storytelling :open_book: 
 
@@ -32,7 +32,7 @@ A Korean Student with a Foreign Heart & Soul
 <hr>
 
 > ### **Career Goal :memo:**
-> "To **grow and mature as a skilled 3D graphic artist** who, as a creator, creates projects that embody **unique ideas & perspectives utilizing her diverse multicultural background.**"
+> "To **mature as a skilled 3D graphic artist** who, as a creator, crafts unique meaningful projects **inspired by her love for diversity and her multicultural perspective**."
 
 
 <hr>
@@ -92,14 +92,14 @@ Procreate: 고등학교 Advanced Art II (2023)
 
 ### My Portfolio of Art & Technology Projects
 
-- **FitChew:** Diet Suggestion Chatbot Creation using Google Dialogflow
+- **FitChew:** Diet Suggestion Chatbot that suggests the user's next meal, created using Google Dialogflow
 - **Puang's Graduation Adventure:** Platformer Game depicting Chung-ang University's mascot Puang, created using p5.js & Teachable Machine Learning controls [![Puang Badge](https://img.shields.io/badge/PUANG%20PLATFORMER%20GAME-blue?style=flat-square&logoColor=white&link=https%3A%2F%2Feditor.p5js.org%2Fslauren1207%2Fsketches%2F95592_ePw-)](https://editor.p5js.org/slauren1207/sketches/95592_ePw-)
 
-- **Magic of Disney:** AR MERGECUBE Recreation of Disney Movies using CoSpaces [![AR Badge](https://img.shields.io/badge/AR%20MAGIC%20OF%20DISNEY-pink?style=flat-square&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FVEC-BMV)](https://edu.cospaces.io/VEC-BMV)
+- **Magic of Disney:** AR MERGECUBE Recreation of all-time favorite Disney Movies, created using CoSpaces [![AR Badge](https://img.shields.io/badge/AR%20MAGIC%20OF%20DISNEY-pink?style=flat-square&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FVEC-BMV)](https://edu.cospaces.io/VEC-BMV)
 
-- **Changing Seasons:** Four-sided Hologram video depicting the four seasons
-- **Bubble Kingdom Adventure:** Bubble Shooter Game Creation using Pygame
-- **Tragedy Befalls Elvendom:** VR Fantasy Murder Mystery Game Creation using CoSpaces [![VR Badge](https://img.shields.io/badge/VR%20TRAGEDY%20BEFALLS%20ELVENDOM-FF69B4?style=flat-square&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FAVX-WQN)](https://edu.cospaces.io/AVX-WQN)
+- **Changing Seasons:** Four-sided Hologram video depicting the beatufy of the four seasons, created using PPT
+- **Bubble Kingdom Adventure:** Bubble Shooter Game in which the player must shoot and match bubbles of the same color to earn points, created using Pygame
+- **Tragedy Befalls Elvendom:** VR Fantasy Murder Mystery Game in which the player must investigate clues to find the suspect, created using CoSpaces [![VR Badge](https://img.shields.io/badge/VR%20TRAGEDY%20BEFALLS%20ELVENDOM-FF69B4?style=flat-square&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FAVX-WQN)](https://edu.cospaces.io/AVX-WQN)
 
 <hr>
 
