@@ -84,6 +84,7 @@ Illustrator: ★★★☆☆ (3/5)       | 응용예술공학
 Maya: ★★★☆☆ (3/5)              | 예술공학개론, 응용예술공학
 Teachable Machine: ★★★☆☆ (3/5) | 예술공학개론 
 ```
+<br>
 <hr>
 
 ## My Portfolio of Art & Technology Projects :computer:
