@@ -21,9 +21,9 @@ A Korean Student with a Foreign Heart & Soul
 <p>
 	
 - **Name:** Yejeong Seong (성예정)
-- **Education :mortar_board:** Class of 2023 graduate of Rift Valley Academy (Kenya) | Current attendee of Chung-Ang University Art & Technology Major
+- **Education :mortar_board::** Class of 2023 graduate of Rift Valley Academy (Kenya) | Current attendee of Chung-Ang University Art & Technology Major
 
-- **Personality Traits:** ISTP/ISFP | Deeply values responsibility and commitment | Observant | Quiet but always yearning to learn new things
+- **Personality Traits :speaking_head::** ISTP/ISFP | Deeply values responsibility and commitment | Observant | Quiet but always yearning to learn new things
 
 - **Fields of Interest :art::** Visual Art & Digital Illustration | 2D & 3D Animation | Music | Game Creation | Storytelling 
 
@@ -110,7 +110,7 @@ Procreate: 고등학교 Advanced Art II (2023)
 ### My Current GitHub Stats :bar_chart:
 <div align="center">
   
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slauren1207)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slauren1207&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <hr>
 
