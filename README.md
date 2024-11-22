@@ -53,10 +53,10 @@ A Korean Student with a Foreign Heart & Soul
 Skill Level & Courses Taken For Each Language
 
 ```
-Python: ★★★★☆ (4/5)     | 기본 프로그래밍 (24-1학기), 심화 프로그래밍 (24-1학기)
-JavaScript: ★★★★☆ (4/5) | 예술공학개론 (24-1학기)
-C++: ★★★☆☆ (3/5)        | 객체지향프로그래밍 (24-2학기)
-HTML: ★★☆☆☆ (2/5)       | 고등학교 AP Computer Science A (2023)
+Python: ★★★★☆ (4/5)     | 기본 프로그래밍, 심화 프로그래밍
+JavaScript: ★★★★☆ (4/5) | 예술공학개론
+C++: ★★★☆☆ (3/5)        | 객체지향프로그래밍
+HTML: ★★☆☆☆ (2/5)       | 고등학교 AP Computer Science A
 ```
 <br>
 <hr>
@@ -86,14 +86,14 @@ HTML: ★★☆☆☆ (2/5)       | 고등학교 AP Computer Science A (2023)
 Skill Level & Courses Taken For Each Skill
 <img align="right" src="https://github.com/user-attachments/assets/1237947e-04a9-4220-8c6c-cd4352996ad9" width="220">
 ```
-CoSpaces: ★★★★★ (5/5)          | 비주얼 컴퓨팅 (24-2학기)
-Procreate: ★★★★★ (5/5)         | 고등학교 Advanced Art II (2023)
-Photoshop: ★★★★☆ (4/5)         | 응용예술공학 (24-2학기)
-Premiere Pro: ★★★★☆ (4/5)      | 컨셉 스튜디오 (24-1학기), 예술공학개론 (24-1학기)
-Google Dialogflow: ★★★☆☆ (3/5) | 심화 프로그래밍 (24-1학기)
-Illustrator: ★★★☆☆ (3/5)       | 응용예술공학 (24-2학기)
-Maya: ★★★☆☆ (3/5)              | 예술공학개론 (24-1학기), 응용예술공학 (24-2학기)
-Teachable Machine: ★★★☆☆ (3/5) | 예술공학개론 (24-1학기)
+CoSpaces: ★★★★★ (5/5)          | 비주얼 컴퓨팅
+Procreate: ★★★★★ (5/5)         | 고등학교 Advanced Art II 
+Photoshop: ★★★★☆ (4/5)         | 응용예술공학 
+Premiere Pro: ★★★★☆ (4/5)      | 컨셉 스튜디오, 예술공학개론 
+Google Dialogflow: ★★★☆☆ (3/5) | 심화 프로그래밍 
+Illustrator: ★★★☆☆ (3/5)       | 응용예술공학
+Maya: ★★★☆☆ (3/5)              | 예술공학개론, 응용예술공학
+Teachable Machine: ★★★☆☆ (3/5) | 예술공학개론 
 ```
 <hr>
 
