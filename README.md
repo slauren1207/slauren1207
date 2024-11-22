@@ -108,7 +108,7 @@ Teachable Machine: ★★★☆☆ (3/5) | 예술공학개론
 
 - **Puang's Graduation Adventure:** Interactive Platformer Game where you can use hand gestures to make Puang move. (p5.js & Teachable Machine) [![Puang Badge](https://img.shields.io/badge/PUANG%20GAME-blue?style=flat-square&logoColor=white&link=https%3A%2F%2Feditor.p5js.org%2Fslauren1207%2Fsketches%2F95592_ePw-)](https://editor.p5js.org/slauren1207/sketches/95592_ePw-)
 
-- **Tragedy Befalls Elvendom:** VR Fantasy Murder Mystery Game where you seek clues and find the suspect (CoSpaces) [![VR Badge](https://img.shields.io/badge/VR%20MYSTERY%20GAME-FF69B4?style=flat-square&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FAVX-WQN)](https://edu.cospaces.io/AVX-WQN)
+- **Tragedy Befalls Elvendom:** VR Fantasy Murder Mystery Game where you seek hidden clues (CoSpaces) [![VR Badge](https://img.shields.io/badge/VR%20MYSTERY%20GAME-FF69B4?style=flat-square&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FAVX-WQN)](https://edu.cospaces.io/AVX-WQN)
 
 <hr>
 
