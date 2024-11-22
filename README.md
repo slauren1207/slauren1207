@@ -23,11 +23,11 @@ A Korean Student with a Foreign Heart & Soul
 - **Name:** Yejeong Seong (성예정)
 - **Education :mortar_board::** Class of 2023 graduate of Rift Valley Academy (Kenya) | Current attendee of Chung-Ang University Art & Technology Major
 
-- **Personality Traits :speaking_head::** ISTP/ISFP | Deeply values responsibility and commitment | Observant | Quiet but always yearning to learn new things
+- **Personality Traits :speaking_head::** ISTP/ISFP | Deeply values responsibility and commitment | Observant | Quiet but always yearning to learn more
 
 - **Fields of Interest :art::** Visual Art & Digital Illustration | 2D & 3D Animation | Music | Game Creation | Storytelling 
 
-- **Multicultural Identity :earth_africa::** Possesses a third-culture identity (Korea, New Zealand, U.S.A., Kenya, Uganda) | Highly adaptable due to having constantly moved abroad | Prioritizes respecting the diverse opinions in team settings
+- **Multicultural Identity :earth_africa::** Possesses a third-culture identity (Korea, New Zealand, U.S.A., Kenya, Uganda) | Highly adaptable due to having constantly moved abroad | Love cultural diversity in team settings
 
 </p>
 <hr>
