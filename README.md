@@ -33,8 +33,8 @@ A Korean Student with a Foreign Heart & Soul
 <hr>
 
 > ### **Career Goals :memo:**
-> - "To further **enhance my skillsets as a 3D graphic artist** and craft meaningful projects **inspired by my love for diversity and my multicultural perspective**." <br>
-> - "To **globally collaborate** with teams from diverse cultural backgrounds to create **innovative works fusing cultures, art, and technology**." 
+> - "To further **enhance my skillsets as a 3D graphic artist,** like mastering coding and 3D modeling."<br>
+> - "To **globally collaborate** with teams from diverse cultural backgrounds to craft **innovative artworks fusing culture, art, and technology,** in recognition of my multicultural background." 
 
 <hr>
 
@@ -87,10 +87,10 @@ Skill Level & Courses Taken For Each Skill
 ```
 CoSpaces: ★★★★★ (5/5)          | 비주얼 컴퓨팅 (24-2학기)
 Procreate: ★★★★★ (5/5)         | 고등학교 Advanced Art II (2023)
-Photoshop: ★★★★☆ (4/5)         | 고등학교 Graphics & Design (2023), 응용예술공학 (24-2학기)
+Photoshop: ★★★★☆ (4/5)         | 응용예술공학 (24-2학기)
 Premiere Pro: ★★★★☆ (4/5)      | 컨셉 스튜디오 (24-1학기), 예술공학개론 (24-1학기)
 Google Dialogflow: ★★★☆☆ (3/5) | 심화 프로그래밍 (24-1학기)
-Illustrator: ★★★☆☆ (3/5)       | 고등학교 Graphics & Design (2023), 응용예술공학 (24-2학기)
+Illustrator: ★★★☆☆ (3/5)       | 응용예술공학 (24-2학기)
 Maya: ★★★☆☆ (3/5)              | 예술공학개론 (24-1학기), 응용예술공학 (24-2학기)
 Teachable Machine: ★★★☆☆ (3/5) | 예술공학개론 (24-1학기)
 ```
