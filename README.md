@@ -27,7 +27,7 @@ A Korean Student with a Foreign Heart & Soul
 
 - **Fields of Interest:** Visual Art & Digital Illustration :art:, 2D & 3D Animation :tv:, Music :notes:, Game Creation :video_game:, Storytelling Director :open_book: 
 
-- **Multicultural Identity:** Harbors a Third-Culture Identity from having lived in diverse cultures (South Korea, New Zealand, USA, Kenya, and Uganda) :world_map:,  Fluent in both Korean and English, Able to adapt swiftly to different situations due to constantly moving abroad, Prioritize respecting the diverse cultures/opinions that may exist in all team settings
+- **Multicultural Identity:** Harbors a Third-Culture Identity from having lived in diverse cultures (South Korea, New Zealand, USA, Kenya, and Uganda) :world_map:,  Fluent in both Korean and English, Gained the ability to adapt swiftly to different situations due to having constantly moved abroad, Prioritizes respecting the diverse cultures/opinions that may exist in all team settings
 
 <hr>
 
