@@ -47,7 +47,7 @@ A Korean Student with a Foreign Heart & Soul
 
 <div align="center">
   
-[![Python Badge](https://img.shields.io/badge/PYTHON-03776Ab?style=flat-square&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F)](https://www.python.org/)
+[![Python Badge](https://img.shields.io/badge/PYTHON-blue?style=flat-square&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F)](https://www.python.org/)
 [![JavaScript Badge](https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=flat-square&logo=javascript&logoColor=white&link=https%3A%2F%2Fwww.javascript.com%2F)](https://www.javascript.com/)
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599c?style=flat-square&logo=cplusplus&logoColor=white&link=https%3A%2F%2Fisocpp.org%2F)](https://isocpp.org/)
 [![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&link=https%3A%2F%2Fhtml.com%2F)](https://html.com/)
