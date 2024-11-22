@@ -55,7 +55,7 @@ Skill Level & Courses Taken For Each Language
 
 ```
 Python: ★★★★☆ (4/5)     | 기본 프로그래밍, 심화 프로그래밍
-JavaScript: ★★★★☆ (4/5) | 예술공학개론
+JavaScript: ★★★★☆ (4/5) | 고등학교 AP Computer Science A, 예술공학개론
 C++: ★★★☆☆ (3/5)        | 객체지향프로그래밍
 HTML: ★★☆☆☆ (2/5)       | 고등학교 AP Computer Science A
 ```
