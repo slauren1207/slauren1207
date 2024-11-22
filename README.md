@@ -58,6 +58,7 @@ JavaScript: ★★★★☆ (4/5) | 예술공학개론 (24-1학기)
 C++: ★★★☆☆ (3/5)        | 객체지향프로그래밍 (24-2학기)
 HTML: ★★☆☆☆ (2/5)       | 고등학교 AP Computer Science A (2023)
 ```
+<br>
 <hr>
 
 ### Other Art & Technology Related Skills I Have Developed
