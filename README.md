@@ -54,7 +54,7 @@ Skill Level & Courses Taken For Each Language
 
 ```
 Python: ★★★★☆ (4/5)     | 기본 프로그래밍 (24-1학기), 심화 프로그래밍 (24-1학기)
-JavaScript: ★★★★☆ (4/5) | 고등학교 AP Computer Science A (2023), 예술공학개론 (24-1학기)
+JavaScript: ★★★★☆ (4/5) | 예술공학개론 (24-1학기)
 C++: ★★★☆☆ (3/5)        | 객체지향프로그래밍 (24-2학기)
 HTML: ★★☆☆☆ (2/5)       | 고등학교 AP Computer Science A (2023)
 ```
