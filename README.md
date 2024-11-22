@@ -27,7 +27,7 @@ A Korean Student with a Foreign Heart & Soul
 
 - **Fields of Interest :art::** Visual Art & Digital Illustration | 2D & 3D Animation | Music | Game Creation | Storytelling 
 
-- **Multicultural Identity :world_map::** Possesses a third-culture identity (Korea, New Zealand, the U.S., Kenya, Uganda) | Highly adaptable due to having constantly moved abroad | Prioritizes respecting the diverse opinions in team settings
+- **Multicultural Identity :earth_africa::** Possesses a third-culture identity (Korea, New Zealand, U.S.A., Kenya, Uganda) | Highly adaptable due to having constantly moved abroad | Prioritizes respecting the diverse opinions in team settings
 
 </p>
 <hr>
@@ -37,7 +37,7 @@ A Korean Student with a Foreign Heart & Soul
 
 <hr>
 
-### Programming Languages I Can Use
+### Programming Languages I Can Use 
 
 <img align="right" src="https://images.stockcake.com/public/6/c/8/6c866598-4e1a-4256-b308-06e72d79ed45_large/futuristic-coding-workspace-stockcake.jpg" width="200">
 
@@ -94,7 +94,7 @@ Procreate: 고등학교 Advanced Art II (2023)
 ```
 <hr>
 
-### My Portfolio of Art & Technology Projects
+### My Portfolio of Art & Technology Projects :computer:
 
 - **FitChew:** Diet Suggestion Chatbot that suggests the user's next meal, created using Google Dialogflow
 - **Puang's Graduation Adventure:** Platformer Game depicting Chung-ang University's mascot Puang, created using p5.js & Teachable Machine Learning controls [![Puang Badge](https://img.shields.io/badge/PUANG%20PLATFORMER%20GAME-blue?style=flat-square&logoColor=white&link=https%3A%2F%2Feditor.p5js.org%2Fslauren1207%2Fsketches%2F95592_ePw-)](https://editor.p5js.org/slauren1207/sketches/95592_ePw-)
