@@ -67,7 +67,7 @@ HTML: ★★☆☆☆ (2/5)       | 고등학교 AP Computer Science A
 ## Other Art & Technology Related Skills
 
 
-<img align="right" src="https://github.com/user-attachments/assets/1237947e-04a9-4220-8c6c-cd4352996ad9" width="215">
+
 <div align="center">
 	
 [![CoSpaces Badge](https://img.shields.io/badge/COSPACES-FF69B4?style=flat-square&logoColor=white&link=https%3A%2F%2Fwww.cospaces.io%2F)](https://www.cospaces.io/)
@@ -84,6 +84,7 @@ HTML: ★★☆☆☆ (2/5)       | 고등학교 AP Computer Science A
 <!--![art   tech](https://github.com/user-attachments/assets/1237947e-04a9-4220-8c6c-cd4352996ad9)-->
 
 Skill Level & Courses Taken For Each Skill
+<img align="right" src="https://github.com/user-attachments/assets/1237947e-04a9-4220-8c6c-cd4352996ad9" width="215">
 
 ```
 CoSpaces: ★★★★★ (5/5)          | 비주얼 컴퓨팅
