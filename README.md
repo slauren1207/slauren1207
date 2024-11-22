@@ -99,8 +99,8 @@ Teachable Machine: ★★★☆☆ (3/5) | 예술공학개론 (24-1학기)
 
 ## My Portfolio of Art & Technology Projects :computer:
 
-- **Bubble Kingdom Adventure:** Bubble Shooter Game in which the player must shoot and match bubbles of the same color to earn points (Pygame)
-- **Changing Seasons:** Four-sided Hologram video depicting the beatufy of the four seasons (PowerPoint)
+- **Bubble Kingdom Adventure:** Bubble Shooter Game where the player must shoot and match bubbles of the same color (Pygame)
+- **Changing Seasons:** Four-sided Hologram video depicting the beauty of the four seasons (PowerPoint)
 - **FitChew:** Diet Suggestion Chatbot that suggests the user's next meal (Google Dialogflow)
 
 - **Magic of Disney:** AR MERGECUBE Recreation of all-time favorite Disney Movies (CoSpaces) [![AR Badge](https://img.shields.io/badge/AR%20MAGIC%20OF%20DISNEY-pink?style=flat-square&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FVEC-BMV)](https://edu.cospaces.io/VEC-BMV)
