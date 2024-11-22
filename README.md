@@ -100,13 +100,13 @@ Teachable Machine: ★★★☆☆ (3/5) | 예술공학개론
 
 ## My Portfolio of Art & Technology Projects :computer:
 
-- **Bubble Kingdom Adventure:** Bubble Shooter Game where you must shoot and match bubbles of the same color (Pygame)
+- **Bubble Kingdom Adventure:** Bubble Shooter Game where you must match bubbles with the same color (Pygame)
 - **Changing Seasons:** Four-sided Hologram video depicting the beauty of the four seasons (PowerPoint)
 - **FitChew:** Diet Suggestion Chatbot that suggests your next meal (Google Dialogflow)
   
 - **Magic of Disney:** AR MergeCube Recreation of favorite Disney Movies (CoSpaces) [![AR Badge](https://img.shields.io/badge/AR%20DISNEY-pink?style=flat-square&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FVEC-BMV)](https://edu.cospaces.io/VEC-BMV)
 
-- **Puang's Graduation Adventure:** Camera-Interactive Platformer Game where you can use hand gestures to make Puang move. (p5.js & Teachable Machine) [![Puang Badge](https://img.shields.io/badge/PUANG%20GAME-blue?style=flat-square&logoColor=white&link=https%3A%2F%2Feditor.p5js.org%2Fslauren1207%2Fsketches%2F95592_ePw-)](https://editor.p5js.org/slauren1207/sketches/95592_ePw-)
+- **Puang's Graduation Adventure:** Interactive Platformer Game where you can use hand gestures to make Puang move. (p5.js & Teachable Machine) [![Puang Badge](https://img.shields.io/badge/PUANG%20GAME-blue?style=flat-square&logoColor=white&link=https%3A%2F%2Feditor.p5js.org%2Fslauren1207%2Fsketches%2F95592_ePw-)](https://editor.p5js.org/slauren1207/sketches/95592_ePw-)
 
 - **Tragedy Befalls Elvendom:** VR Fantasy Murder Mystery Game where you seek clues and find the suspect (CoSpaces) [![VR Badge](https://img.shields.io/badge/VR%20MYSTERY%20GAME-FF69B4?style=flat-square&logoColor=white&link=https%3A%2F%2Fedu.cospaces.io%2FAVX-WQN)](https://edu.cospaces.io/AVX-WQN)
 
