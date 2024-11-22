@@ -34,7 +34,7 @@ A Korean Student with a Foreign Heart & Soul
 
 > ### **Career Goals :memo:**
 > - "To further **enhance my skillsets as a 3D graphic artist,** like mastering coding and 3D modeling."<br>
-> - "To **globally collaborate** with teams from diverse cultural backgrounds and craft **innovative artworks fusing culture, art, and technology,** inspired by my multicultural background." 
+> - "To **globally collaborate** with teams from diverse backgrounds and craft **innovative artworks fusing culture, art, and technology,** inspired by my multicultural experiences." 
 
 <hr>
 
