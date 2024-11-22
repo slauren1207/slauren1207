@@ -2,13 +2,10 @@
   
 ## 	:sparkles: 안녕하세요 - Welcome to Yejeong Seong's profile! 	:sparkles:
 A Korean Student with a Foreign Heart & Soul
-</div>
 
- <div align=center>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fslauren1207)](https://hits.seeyoufarm.com) 
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fslauren1207)](https://hits.seeyoufarm.com) 
-	
-  </div>
+</div>
 <hr>
 
 
@@ -17,9 +14,6 @@ A Korean Student with a Foreign Heart & Soul
 <!--![KakaoTalk_20241113_193246928_03](https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088)-->
 <img align="left" src="https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088" width="165">
 
-
-<p>
-	
 - **Name:** Yejeong Seong (성예정)
 - **Education :mortar_board::** Rift Valley Academy (Kenya) | Current Art & Technology Major at Chung-Ang University
 
@@ -29,16 +23,12 @@ A Korean Student with a Foreign Heart & Soul
 
 - **Multicultural Identity :earth_africa::** Possesses a third-culture identity (Korea, New Zealand, U.S.A., Kenya, Uganda) | Highly adaptable due to having constantly moved abroad | Love cultural diversity in team settings
 
-</p>
-
 <br>
-
 <hr>
 
 > ### **Career Goals :memo:**
 > - "To further **enhance my skillsets as a 3D graphic artist,** like mastering coding and 3D modeling."<br>
 > - "To **globally collaborate** with teams from diverse backgrounds and craft **innovative works fusing culture, art, and technology.**" 
-><br>
 <hr>
 
 ## Programming Languages I Can Use 
@@ -65,8 +55,6 @@ HTML: ★★☆☆☆ (2/5)       | 고등학교 AP Computer Science A
 <hr>
 
 ## Other Art & Technology Related Skills
-
-
 
 <div align="center">
 	
