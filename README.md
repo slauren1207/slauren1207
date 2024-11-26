@@ -12,7 +12,7 @@ A Korean Student with a Foreign Heart & Soul
 ## Basic Introduction
 
 <!--![KakaoTalk_20241113_193246928_03](https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088)-->
-<img align="left" src="https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088" width="165">
+<!--<img align="left" src="https://github.com/user-attachments/assets/e02b71c4-df1a-4fb2-bac7-d502d986a088" width="165">-->
 
 - **Name:** Yejeong Seong (성예정)
 - **Education :mortar_board::** Rift Valley Academy (Kenya) | Current Art & Technology Major at Chung-Ang University
